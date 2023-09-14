@@ -1,0 +1,1 @@
+python.exe analitica_estudiantes.py

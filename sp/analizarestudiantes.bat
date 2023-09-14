@@ -1,0 +1,2 @@
+python  categorizarestudiantes.py
+pause

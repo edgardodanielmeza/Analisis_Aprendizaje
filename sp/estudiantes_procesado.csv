@@ -1,0 +1,1211 @@
+ID,Genero,Edad,Aprendo mejor leyendo lo que el maestro escribe en la pizarra,Cuando leo las instrucciones las recuerdo mejor,Entiendo mejor cuando leo las instrucciones,Aprendo mejor leyendo que escuchando a alguien,Aprendo mas leyendo libros de texto que escuchando conferencias,Cuando el profesor me dice las instrucciones entiendo mejor,Cuando alguien me dice como hacer algo en clase lo aprendo mejor,Recuerdo las cosas que he escuchado en clase mejor que las cosas que he leido,Aprendo mejor en clase cuando el profesor da una conferencia,Aprendo mejor en clase cuando escucho a alguien,Prefiero aprender haciendo algo en clase,Cuando hago cosas en clase aprendo mejor,Me gusta aprender en clase haciendo experimentos,Entiendo mejor las cosas en clase cuando participo en juegos de rol,Te resulta mas facil aprender algo cuando puedes hacerlo tu mismo en lugar de solo escuchar o leer sobre ello,TipoAprendizaje
+10011001,Masculino,16,5,4,4,3,2,4,3,3,2,3,4,2,2,3,5,VISUAL
+10011002,Masculino,16,5,4,4,4,3,3,2,4,3,4,3,4,3,4,5,VISUAL
+10011003,Masculino,18,3,4,3,3,4,2,4,3,2,2,3,2,3,3,5,VISUAL
+10011004,Masculino,21,1,3,3,4,4,2,2,2,2,2,4,4,4,4,5,Kinestesico
+10011005,Femenino,21,4,4,4,5,5,4,4,3,4,4,5,5,5,3,5,Kinestesico
+10011006,Masculino,21,2,3,2,3,3,3,1,4,3,5,1,2,4,1,5,AUDITIVO
+10011007,Femenino,21,3,3,4,3,3,3,4,4,5,3,3,5,3,4,5,Kinestesico
+10011008,Masculino,21,2,3,3,4,4,4,5,5,5,5,5,5,5,3,5,AUDITIVO
+10011009,Femenino,21,5,5,5,5,4,4,4,4,4,4,3,4,5,5,5,VISUAL
+10011010,Masculino,21,1,3,4,4,3,3,3,4,2,2,5,5,5,5,5,Kinestesico
+10011011,Femenino,19,3,5,4,4,4,3,3,3,3,3,3,3,4,4,5,VISUAL
+10011012,Masculino,21,3,3,4,3,4,3,3,3,3,4,3,4,4,3,5,Kinestesico
+10011013,Femenino,21,4,4,4,3,3,4,4,3,4,4,4,4,4,4,5,Kinestesico
+10011014,Masculino,21,4,1,1,5,3,5,2,3,3,4,2,4,2,5,5,Kinestesico
+10011015,Masculino,19,3,4,3,1,2,5,5,4,4,5,5,5,5,5,5,Kinestesico
+10011016,Masculino,10,5,5,5,5,5,4,3,5,2,4,5,2,4,3,5,VISUAL
+10011017,Femenino,20,1,5,5,2,1,3,5,5,5,5,5,5,5,4,5,Kinestesico
+10011018,Femenino,21,3,3,3,3,2,5,4,4,4,3,4,4,4,4,5,Kinestesico
+10011019,Femenino,20,4,4,4,5,5,3,3,1,2,3,3,3,3,1,5,VISUAL
+10011020,Femenino,20,4,3,3,4,3,4,4,3,5,3,3,3,2,4,5,AUDITIVO
+10011021,Masculino,21,4,4,4,4,2,3,3,3,3,4,3,3,3,3,5,VISUAL
+10011022,Femenino,18,3,2,5,4,4,4,4,3,3,3,3,4,5,3,5,Kinestesico
+10011023,Femenino,20,5,5,5,3,2,5,5,5,5,5,5,5,5,4,5,AUDITIVO
+10011024,Masculino,20,2,3,5,5,3,1,2,2,1,4,1,1,4,4,5,VISUAL
+10011025,Femenino,20,3,4,4,3,4,3,4,2,2,4,2,1,4,3,5,VISUAL
+10011026,Femenino,21,4,4,4,4,3,4,4,2,3,3,4,4,4,4,5,Kinestesico
+10011027,Femenino,20,5,3,3,2,2,3,5,3,3,5,5,4,3,4,5,Kinestesico
+10011028,Masculino,21,3,5,3,4,2,4,3,4,3,1,3,3,3,2,5,VISUAL
+10011029,Femenino,20,3,2,4,3,2,5,4,3,3,4,4,2,4,2,5,AUDITIVO
+10011030,Masculino,20,2,3,3,2,2,3,4,4,2,4,4,4,5,5,5,Kinestesico
+10011031,Masculino,19,3,3,4,2,1,4,4,4,3,4,4,4,3,4,5,Kinestesico
+10011032,Masculino,20,4,4,3,2,3,4,4,3,4,3,4,4,4,4,5,Kinestesico
+10011033,Masculino,20,4,2,3,5,5,3,3,2,5,4,3,3,3,2,5,VISUAL
+10011034,Femenino,21,3,5,2,3,3,4,3,4,3,4,4,4,3,4,5,Kinestesico
+10011035,Femenino,19,2,4,3,3,4,2,3,2,2,2,5,5,5,5,5,Kinestesico
+10011036,Femenino,17,2,5,5,3,5,2,3,1,2,1,3,3,5,2,5,VISUAL
+10011037,Femenino,17,5,4,4,5,3,5,4,5,5,1,5,5,5,4,5,Kinestesico
+10011038,Masculino,19,2,2,3,3,2,5,2,2,2,2,3,2,5,5,5,Kinestesico
+10011039,Masculino,21,4,3,4,1,2,4,5,3,4,4,5,5,5,5,5,Kinestesico
+10011040,Masculino,19,5,5,5,1,1,5,5,1,5,5,5,5,3,5,5,Kinestesico
+10011041,Masculino,19,5,4,4,2,2,5,5,5,5,5,5,5,5,4,5,AUDITIVO
+10011042,Masculino,19,3,3,3,3,3,3,3,3,3,3,5,4,3,4,5,Kinestesico
+10011043,Masculino,21,3,2,3,5,3,4,4,4,4,5,4,5,4,3,5,"AUDITIVO, Kinestesico"
+10011044,Femenino,18,4,4,3,3,3,3,3,3,2,3,4,4,4,2,5,Kinestesico
+10011045,Femenino,21,3,4,4,3,4,3,3,3,3,3,3,4,4,3,5,Kinestesico
+10011046,Masculino,20,3,2,2,1,3,4,5,3,3,3,3,4,5,4,5,Kinestesico
+10011047,Masculino,21,2,4,5,2,1,4,5,4,5,5,5,5,5,5,5,Kinestesico
+10011048,Masculino,21,2,3,3,3,3,3,3,4,5,3,3,3,3,3,5,AUDITIVO
+10011049,Masculino,21,2,3,4,3,2,4,4,3,4,4,5,5,5,5,5,Kinestesico
+10011050,Masculino,21,1,4,4,3,3,3,3,3,3,4,3,4,5,4,5,Kinestesico
+10011051,Femenino,21,5,3,5,5,5,5,3,3,2,3,2,2,5,4,5,VISUAL
+10011052,Femenino,18,5,3,3,2,3,4,4,4,5,1,3,4,5,2,5,Kinestesico
+10011053,Femenino,21,4,2,5,2,2,4,5,2,5,4,4,2,4,4,5,AUDITIVO
+10011054,Masculino,18,3,4,4,3,4,3,3,2,3,4,3,2,3,3,5,VISUAL
+10011055,Masculino,18,3,3,4,3,2,2,2,3,2,4,4,4,4,4,5,Kinestesico
+10011056,Masculino,19,3,4,4,4,3,3,2,4,2,2,3,3,4,3,5,"VISUAL, Kinestesico"
+10011057,Masculino,20,3,2,2,2,2,2,3,2,3,3,2,2,3,3,5,Kinestesico
+10011058,Masculino,20,3,2,2,2,2,2,3,2,3,3,2,2,3,3,5,Kinestesico
+10011059,Masculino,20,4,4,3,3,4,4,3,2,3,3,3,3,3,3,5,VISUAL
+10011060,Masculino,20,3,3,3,4,2,2,2,2,3,3,3,2,2,2,5,VISUAL
+10011061,Masculino,20,3,3,3,4,2,2,2,2,3,3,3,2,2,2,5,VISUAL
+10011062,Masculino,20,2,4,4,5,5,4,3,3,3,2,2,2,2,3,5,VISUAL
+10011063,Masculino,20,2,3,3,2,2,3,2,2,1,3,2,3,3,2,5,Kinestesico
+10011064,Masculino,21,2,3,4,2,2,1,2,2,1,2,2,3,3,3,5,Kinestesico
+10011065,Masculino,21,3,2,3,3,2,3,3,2,2,3,2,2,2,4,5,Kinestesico
+10011066,Masculino,21,2,2,4,3,4,4,3,2,3,3,5,5,3,3,5,Kinestesico
+10011067,Femenino,20,3,3,2,4,4,5,4,3,4,4,5,3,4,5,5,Kinestesico
+10011068,Femenino,21,4,4,5,5,3,4,3,4,3,3,4,5,3,4,5,"VISUAL, Kinestesico"
+10011069,Femenino,20,3,3,2,2,2,3,4,3,3,2,2,3,2,3,5,"AUDITIVO, Kinestesico"
+10011070,Masculino,17,3,3,2,2,5,4,4,3,3,4,4,4,5,4,5,Kinestesico
+10011071,Masculino,21,4,4,3,4,4,3,3,4,4,4,3,4,3,3,5,VISUAL
+10011072,Masculino,21,4,4,4,3,3,2,2,3,3,3,2,3,3,3,5,VISUAL
+10011073,Masculino,21,3,2,2,3,4,4,4,4,5,4,3,4,4,3,5,AUDITIVO
+10011074,Femenino,21,3,3,4,4,5,4,4,4,3,5,4,3,4,5,5,Kinestesico
+10011075,Femenino,20,4,4,5,4,3,3,4,5,4,4,3,4,3,4,5,"VISUAL, AUDITIVO"
+10011076,Femenino,18,3,4,4,4,4,4,3,4,4,4,5,4,3,4,5,Kinestesico
+10011077,Femenino,19,3,4,4,4,5,4,4,4,3,3,3,3,2,4,5,VISUAL
+10011078,Femenino,19,4,3,3,4,3,2,3,3,3,3,3,4,4,4,5,Kinestesico
+10011079,Femenino,19,3,2,3,3,3,2,4,3,3,3,3,4,4,3,5,Kinestesico
+10011080,Femenino,19,3,2,3,4,3,3,3,4,4,4,4,4,3,4,5,Kinestesico
+10011081,Femenino,18,4,3,4,3,3,4,4,3,4,3,3,3,5,5,5,Kinestesico
+10011082,Femenino,20,4,4,3,3,4,3,2,3,3,4,3,3,3,3,5,VISUAL
+10011083,Masculino,20,2,4,4,4,3,3,4,3,4,3,3,3,2,3,5,"VISUAL, AUDITIVO"
+10011084,Masculino,21,2,4,4,3,4,2,4,4,3,4,3,3,4,3,5,Kinestesico
+10011085,Masculino,21,2,4,4,4,4,3,3,3,2,4,2,4,4,2,5,VISUAL
+10011086,Femenino,19,4,3,3,4,3,4,3,4,3,4,3,4,5,4,5,Kinestesico
+10011087,Femenino,18,4,4,3,3,4,4,4,3,4,4,3,4,4,4,5,Kinestesico
+10011088,Femenino,18,4,3,3,4,4,4,4,3,5,5,5,5,4,4,5,Kinestesico
+10011089,Masculino,21,3,4,3,4,3,4,3,3,4,3,4,4,3,4,5,Kinestesico
+10011090,Masculino,19,4,4,4,3,3,2,3,3,2,4,4,3,4,4,5,Kinestesico
+10011091,Femenino,20,2,2,3,3,2,4,3,3,3,3,3,3,3,3,5,Kinestesico
+10011092,Masculino,20,3,4,4,2,5,4,4,3,3,4,4,4,3,3,5,Kinestesico
+10011093,Femenino,20,1,4,4,3,4,4,3,4,4,4,4,4,2,4,5,"AUDITIVO, Kinestesico"
+10011094,Femenino,20,4,4,3,3,2,4,4,5,5,3,3,4,4,4,5,AUDITIVO
+10011095,Masculino,20,4,5,4,3,3,3,4,4,4,3,3,3,4,3,5,VISUAL
+10011096,Masculino,21,4,4,3,3,2,3,3,2,3,2,3,2,4,2,5,"VISUAL, Kinestesico"
+10011097,Masculino,21,3,4,3,4,3,4,3,4,3,5,3,3,4,3,5,AUDITIVO
+10011098,Femenino,20,3,4,4,3,2,3,3,3,4,3,3,3,4,3,5,Kinestesico
+10011099,Femenino,20,2,3,4,3,4,4,2,4,4,3,3,3,3,5,5,Kinestesico
+10011100,Femenino,21,2,4,3,3,3,2,4,4,2,3,3,3,2,3,5,Kinestesico
+10011101,Masculino,20,5,3,4,3,3,2,3,3,3,4,2,4,2,3,5,VISUAL
+10011102,Femenino,17,2,4,3,3,2,2,2,4,2,5,1,3,5,1,5,"AUDITIVO, Kinestesico"
+10011103,Femenino,18,2,5,4,4,2,3,4,2,5,1,5,3,4,3,5,Kinestesico
+10011104,Masculino,17,4,5,4,2,4,2,4,2,5,3,3,5,2,3,5,VISUAL
+10011105,Femenino,17,4,4,2,4,2,4,3,4,2,4,3,2,4,3,5,"AUDITIVO, Kinestesico"
+10011106,Femenino,17,4,3,2,4,3,2,3,3,4,3,2,3,2,3,5,VISUAL
+10011107,Femenino,18,4,4,3,4,3,3,3,4,3,4,2,4,3,3,5,VISUAL
+10011108,Masculino,18,3,4,3,4,2,4,2,3,4,2,4,2,4,4,5,Kinestesico
+10011109,Masculino,18,4,4,3,3,3,5,3,4,3,3,2,4,4,2,5,AUDITIVO
+10011110,Femenino,18,4,4,4,2,4,2,4,2,2,4,2,4,2,5,5,"VISUAL, Kinestesico"
+10011111,Femenino,18,4,4,3,4,3,4,3,4,5,5,4,4,3,1,5,AUDITIVO
+10011112,Masculino,17,3,3,3,3,4,3,3,3,4,3,3,3,3,4,5,Kinestesico
+10011113,Masculino,18,4,3,4,3,1,5,2,5,2,5,3,4,2,4,5,AUDITIVO
+10011114,Femenino,19,4,5,4,3,3,5,2,4,3,4,2,4,2,4,5,VISUAL
+10011115,Masculino,18,3,5,4,3,4,2,4,2,4,5,5,4,5,2,5,Kinestesico
+10011116,Masculino,18,5,4,3,3,4,2,4,4,3,4,3,3,3,4,5,VISUAL
+10011117,Masculino,19,4,4,3,4,3,4,3,3,5,4,3,1,3,4,5,AUDITIVO
+10011118,Femenino,19,4,4,3,4,3,3,5,3,5,2,3,3,4,2,5,"VISUAL, AUDITIVO"
+10011119,Femenino,19,3,3,5,2,3,4,3,4,2,4,3,5,3,4,5,Kinestesico
+10011120,Femenino,18,4,3,4,3,4,4,2,4,4,2,4,4,4,4,5,Kinestesico
+10011121,Femenino,18,3,4,3,2,4,4,2,3,3,3,3,4,5,3,5,Kinestesico
+10011122,Masculino,18,4,3,4,4,3,4,4,3,4,3,5,3,4,4,5,Kinestesico
+10011123,Masculino,18,3,5,4,5,4,2,3,3,2,2,3,2,3,2,5,VISUAL
+10011124,Masculino,18,4,3,3,3,4,4,2,4,4,3,4,3,4,3,5,Kinestesico
+10011125,Femenino,17,2,5,4,3,4,3,4,5,4,4,4,2,3,4,5,AUDITIVO
+10011126,Masculino,16,3,4,3,4,3,3,4,2,2,4,2,4,3,4,5,Kinestesico
+10011127,Femenino,18,5,4,2,4,4,3,4,3,4,4,3,4,3,4,5,"VISUAL, Kinestesico"
+10011128,Masculino,19,4,4,2,5,4,3,5,3,3,2,3,3,2,4,5,VISUAL
+10011129,Masculino,19,2,1,5,1,5,4,4,1,1,3,3,3,4,1,5,Kinestesico
+10011130,Masculino,20,3,5,2,5,2,5,2,2,5,2,5,2,5,4,5,Kinestesico
+10011131,Femenino,20,4,4,3,3,5,2,4,3,5,5,3,4,4,3,5,"VISUAL, AUDITIVO, Kinestesico"
+10011132,Masculino,21,2,3,3,1,2,2,1,2,2,3,3,3,2,2,5,Kinestesico
+10011133,Femenino,19,4,3,4,3,3,4,3,2,4,3,2,4,3,3,5,"VISUAL, Kinestesico"
+10011134,Masculino,19,3,4,4,3,4,3,4,3,4,3,2,3,4,3,5,VISUAL
+10011135,Masculino,18,4,3,4,3,4,3,3,5,3,4,2,3,5,3,5,"VISUAL, AUDITIVO, Kinestesico"
+10011136,Masculino,19,4,3,1,3,2,4,2,4,1,4,1,4,2,3,5,"AUDITIVO, Kinestesico"
+10011137,Masculino,19,3,2,4,2,4,3,2,3,4,4,3,4,2,4,5,Kinestesico
+10011138,Masculino,18,4,2,4,3,3,3,4,3,3,4,2,4,3,3,5,"AUDITIVO, Kinestesico"
+10011139,Masculino,18,3,5,2,5,2,4,3,4,3,4,2,4,3,3,5,AUDITIVO
+10011140,Femenino,18,3,4,3,4,2,4,4,3,5,2,4,4,2,4,5,Kinestesico
+10011141,Femenino,19,3,4,2,3,4,4,4,1,2,5,4,4,4,4,5,Kinestesico
+10011142,Femenino,18,2,5,3,4,3,1,4,2,3,4,4,2,4,4,5,Kinestesico
+10011143,Masculino,18,4,4,4,4,3,3,4,3,4,4,2,3,3,3,5,VISUAL
+10011144,Femenino,18,4,5,3,4,3,4,3,3,4,2,3,4,3,3,5,VISUAL
+10011145,Masculino,18,4,4,4,3,3,3,3,4,3,3,3,3,3,3,5,VISUAL
+10011146,Femenino,18,4,5,5,5,3,4,3,4,3,4,2,4,4,3,5,VISUAL
+10011147,Femenino,21,5,4,3,4,3,3,3,4,2,3,3,4,3,4,5,"VISUAL, Kinestesico"
+10011148,Femenino,18,4,4,3,4,4,3,4,4,5,3,5,2,2,2,5,"VISUAL, AUDITIVO"
+10011149,Femenino,18,2,2,4,3,3,2,2,3,2,4,2,3,2,3,5,Kinestesico
+10011150,Femenino,18,3,4,2,3,2,4,3,2,4,2,4,2,4,2,5,Kinestesico
+10011151,Femenino,21,3,3,2,2,4,3,3,2,3,2,3,2,4,3,5,Kinestesico
+10011152,Femenino,19,3,2,3,3,2,3,4,4,3,4,3,3,3,3,5,AUDITIVO
+10011153,Femenino,18,4,4,3,3,4,2,5,4,3,4,2,4,2,3,5,"VISUAL, AUDITIVO"
+10011154,Femenino,18,4,4,3,3,4,2,5,4,3,4,2,4,2,3,5,"VISUAL, AUDITIVO"
+10011155,Masculino,21,3,2,4,1,3,4,1,3,2,1,3,2,3,1,5,Kinestesico
+10011156,Masculino,19,2,2,1,3,4,4,4,5,4,5,4,4,4,4,5,AUDITIVO
+10011157,Femenino,18,4,4,3,4,4,3,4,4,3,3,3,4,3,4,5,"VISUAL, Kinestesico"
+10011158,Femenino,19,4,3,4,4,4,2,3,4,3,4,3,5,3,3,5,"VISUAL, Kinestesico"
+10011159,Femenino,18,3,4,3,3,3,4,3,2,4,4,4,3,4,3,5,Kinestesico
+10011160,Femenino,18,4,4,2,4,2,4,3,3,4,2,4,2,4,2,5,Kinestesico
+10011161,Masculino,18,4,3,2,3,2,4,4,2,4,2,4,2,4,3,5,Kinestesico
+10011162,Femenino,20,5,3,2,2,2,4,4,2,3,3,3,3,3,2,5,"AUDITIVO, Kinestesico"
+10011163,Masculino,16,4,4,3,4,4,2,4,4,2,4,2,5,2,4,5,VISUAL
+10011164,Femenino,18,3,3,2,4,4,4,2,3,3,2,4,1,3,1,5,VISUAL
+10011165,Femenino,19,4,3,2,2,2,4,2,4,4,2,3,4,3,4,5,Kinestesico
+10011166,Femenino,18,3,4,2,4,2,3,2,4,3,2,3,2,5,3,5,Kinestesico
+10011167,Femenino,18,4,4,2,4,2,3,4,2,4,2,3,4,3,1,5,"VISUAL, Kinestesico"
+10011168,Masculino,19,3,4,4,2,2,4,3,3,4,3,2,4,3,3,5,"AUDITIVO, Kinestesico"
+10011169,Masculino,21,3,4,2,4,2,3,4,2,4,3,4,4,3,4,5,Kinestesico
+10011170,Masculino,19,4,5,2,4,4,3,3,2,2,3,2,4,2,4,5,VISUAL
+10011171,Masculino,17,3,3,4,1,3,4,1,2,3,2,2,3,3,2,5,Kinestesico
+10011172,Masculino,21,3,2,1,2,3,2,3,2,2,2,3,2,1,2,5,Kinestesico
+10011173,Femenino,18,3,5,2,4,2,3,3,3,2,3,1,3,1,2,5,VISUAL
+10011174,Masculino,18,2,4,2,3,2,3,3,3,2,1,3,2,1,3,5,Kinestesico
+10011175,Masculino,16,2,4,3,1,3,1,3,2,4,2,3,2,2,4,5,Kinestesico
+10011176,Femenino,18,4,3,2,3,2,2,4,3,1,4,3,1,3,3,5,Kinestesico
+10011177,Masculino,19,3,2,1,4,2,2,4,2,3,2,3,1,3,2,5,Kinestesico
+10011178,Femenino,19,4,4,2,4,2,4,5,3,2,3,2,3,2,3,5,AUDITIVO
+10011179,Femenino,20,3,4,3,3,3,2,3,2,3,2,2,2,1,2,5,VISUAL
+10011180,Masculino,21,4,3,4,1,1,3,2,3,3,3,4,3,3,3,5,Kinestesico
+10011181,Masculino,20,4,4,3,2,2,3,3,2,3,2,3,1,2,3,5,VISUAL
+10011182,Masculino,21,5,3,1,2,2,1,3,2,2,2,2,1,2,4,5,Kinestesico
+10011183,Masculino,19,3,4,2,3,2,4,3,3,2,2,2,4,4,3,5,Kinestesico
+10011184,Masculino,19,3,1,2,4,3,1,4,3,2,1,4,4,2,5,5,Kinestesico
+10011185,Masculino,17,4,4,3,5,4,4,4,5,3,3,3,5,2,4,5,VISUAL
+10011186,Femenino,17,4,3,4,4,2,2,5,3,4,3,3,5,4,3,5,Kinestesico
+10011187,Femenino,18,4,3,3,4,5,4,4,4,2,4,2,4,4,4,5,"VISUAL, Kinestesico"
+10011188,Masculino,21,4,3,4,2,2,3,2,2,3,3,2,3,2,2,5,VISUAL
+10011189,Masculino,21,3,2,2,3,2,2,2,1,2,3,2,3,1,1,5,"VISUAL, Kinestesico"
+10011190,Masculino,16,4,2,1,3,3,3,1,2,2,2,4,2,4,3,5,Kinestesico
+10011191,Femenino,19,2,3,4,3,4,3,4,3,3,3,5,5,5,4,5,Kinestesico
+10011192,Masculino,21,5,4,3,3,3,3,3,4,3,3,3,3,5,1,5,VISUAL
+10011193,Masculino,18,4,5,2,4,3,4,4,3,4,3,3,2,3,3,5,"VISUAL, AUDITIVO"
+10011194,Femenino,17,4,4,2,3,4,5,2,4,3,3,3,3,3,2,5,"VISUAL, AUDITIVO"
+10011195,Femenino,19,4,4,2,4,4,4,2,3,4,3,4,2,3,3,5,VISUAL
+10011196,Masculino,21,3,4,2,4,4,2,5,3,3,4,2,3,4,4,5,Kinestesico
+10011197,Masculino,20,4,4,3,5,4,3,4,4,5,3,4,3,3,2,5,VISUAL
+10011198,Masculino,20,5,4,3,3,5,4,2,3,3,2,3,2,2,4,5,VISUAL
+10011199,Masculino,21,3,5,1,5,3,4,3,3,3,2,3,2,4,2,5,VISUAL
+10011200,Femenino,19,2,4,2,3,4,2,3,4,2,5,3,3,5,2,5,Kinestesico
+10011201,Femenino,20,4,3,3,4,3,4,3,4,4,2,3,3,2,4,5,"VISUAL, AUDITIVO, Kinestesico"
+10011202,Masculino,17,4,2,2,4,3,3,3,2,4,1,2,3,3,2,5,"VISUAL, Kinestesico"
+10011203,Femenino,18,4,3,2,3,5,2,4,2,3,3,4,2,5,2,5,Kinestesico
+10011204,Femenino,18,4,4,2,3,4,3,4,2,3,4,2,4,4,2,5,"VISUAL, Kinestesico"
+10011205,Femenino,18,5,4,2,4,4,5,2,4,2,4,4,3,4,1,5,VISUAL
+10011206,Femenino,18,5,4,2,4,4,5,2,4,2,4,4,3,4,1,5,VISUAL
+10011207,Femenino,19,5,4,2,3,4,4,2,4,4,2,4,4,2,4,5,Kinestesico
+10011208,Femenino,18,5,4,3,4,2,4,3,4,4,3,4,3,3,4,5,Kinestesico
+10011209,Masculino,17,4,4,3,3,2,4,5,2,4,3,4,2,2,4,5,AUDITIVO
+10011210,Masculino,19,4,2,5,3,4,3,4,4,3,3,4,3,3,2,5,VISUAL
+10011211,Masculino,20,4,4,1,3,2,4,1,3,2,4,2,3,3,2,5,Kinestesico
+10011212,Femenino,17,2,4,4,2,4,3,4,4,2,4,3,3,4,3,5,Kinestesico
+10011213,Masculino,21,3,3,2,3,4,2,4,4,3,2,4,3,2,3,5,Kinestesico
+10011214,Masculino,21,4,3,2,5,5,4,5,3,4,4,3,4,4,3,5,AUDITIVO
+10011215,Femenino,17,4,4,3,3,4,4,3,2,4,3,3,4,2,4,5,"VISUAL, Kinestesico"
+10011216,Masculino,17,4,4,2,3,3,2,4,4,3,1,3,4,2,4,5,Kinestesico
+10011217,Masculino,20,3,4,3,4,3,3,2,3,3,3,4,3,3,2,5,"VISUAL, Kinestesico"
+10011218,Masculino,18,3,5,3,4,3,4,3,3,3,4,4,4,3,4,5,Kinestesico
+10011219,Masculino,19,5,5,3,3,2,3,4,4,3,3,4,3,3,4,5,Kinestesico
+10011220,Femenino,18,3,2,4,3,3,3,5,2,4,3,2,4,3,4,5,Kinestesico
+10011221,Femenino,18,3,5,3,3,4,2,4,4,3,3,4,2,2,3,5,VISUAL
+10011222,Masculino,18,4,5,3,4,5,2,4,3,4,3,4,4,4,3,5,VISUAL
+10011223,Femenino,19,5,4,2,4,5,3,4,3,4,3,4,4,3,3,5,VISUAL
+10011224,Masculino,21,3,4,2,4,2,4,3,4,2,4,4,3,2,3,5,"AUDITIVO, Kinestesico"
+10011225,Femenino,19,5,4,3,3,4,2,3,4,3,4,4,3,3,4,5,"VISUAL, Kinestesico"
+10011226,Femenino,19,4,4,2,3,4,4,3,3,4,2,4,4,3,2,5,Kinestesico
+10011227,Femenino,20,4,4,4,2,4,4,4,3,3,3,2,3,3,4,5,VISUAL
+10011228,Femenino,19,5,4,4,2,3,5,4,3,3,2,4,2,3,5,5,Kinestesico
+10011229,Femenino,18,4,4,5,2,4,4,3,2,3,4,3,3,4,3,5,VISUAL
+10011230,Femenino,20,4,4,2,3,4,2,4,4,3,2,4,2,4,3,5,Kinestesico
+10011231,Femenino,19,5,4,3,3,5,3,4,3,3,4,2,3,4,3,5,VISUAL
+10011232,Femenino,17,4,4,2,4,2,3,4,4,3,3,3,4,3,2,5,"AUDITIVO, Kinestesico"
+10011233,Femenino,18,5,3,2,4,4,3,2,4,3,3,4,3,3,4,5,Kinestesico
+10011234,Masculino,19,4,3,2,5,4,5,3,3,4,2,5,4,3,4,5,Kinestesico
+10011235,Femenino,18,4,3,4,3,4,3,3,2,3,3,2,2,4,3,5,VISUAL
+10011236,Femenino,20,5,3,3,5,4,4,2,5,3,4,3,4,4,2,5,VISUAL
+10011237,Masculino,19,4,4,3,3,5,3,3,4,2,4,4,2,3,4,5,VISUAL
+10011238,Femenino,19,4,4,4,4,2,4,5,4,3,4,4,2,3,4,5,AUDITIVO
+10011239,Femenino,20,4,4,3,4,4,2,4,2,5,2,4,3,4,4,5,Kinestesico
+10011240,Femenino,17,5,2,5,3,3,2,3,3,3,2,4,4,2,2,5,VISUAL
+10011241,Masculino,18,3,5,4,3,4,3,3,3,5,5,4,3,4,4,5,Kinestesico
+10011242,Masculino,19,3,4,3,5,3,3,5,5,4,3,4,4,1,4,5,AUDITIVO
+10011243,Masculino,19,4,4,3,3,5,3,3,4,2,4,4,2,3,4,5,VISUAL
+10011244,Masculino,21,4,4,5,3,2,3,3,3,2,3,2,4,4,2,5,VISUAL
+10011245,Masculino,19,5,5,4,4,2,4,3,5,3,3,5,5,3,3,5,Kinestesico
+10011246,Femenino,17,4,4,3,5,3,4,3,4,3,5,4,4,4,4,5,Kinestesico
+10011247,Femenino,17,4,5,4,3,4,4,4,2,4,3,4,3,2,4,5,VISUAL
+10011248,Masculino,19,4,4,4,3,3,4,3,3,4,2,4,3,4,4,5,Kinestesico
+10011249,Masculino,19,4,3,5,3,4,3,3,3,4,3,5,3,4,5,5,Kinestesico
+10011250,Masculino,19,5,5,3,4,3,4,4,3,5,3,3,4,3,3,5,VISUAL
+10011251,Masculino,19,4,5,3,5,2,3,4,4,2,4,4,4,3,4,5,Kinestesico
+10011252,Femenino,17,4,3,3,4,5,3,4,3,4,2,5,2,4,4,5,Kinestesico
+10011253,Femenino,18,5,4,4,4,3,4,3,3,3,2,3,4,3,5,5,"VISUAL, Kinestesico"
+10011254,Masculino,19,4,4,3,4,3,2,4,3,3,4,3,3,2,4,5,VISUAL
+10011255,Femenino,21,3,3,4,4,3,4,4,3,5,3,3,4,3,3,5,AUDITIVO
+10011256,Femenino,18,5,4,2,3,4,3,4,3,2,4,2,4,4,2,5,VISUAL
+10011257,Femenino,19,5,3,5,4,3,5,2,3,4,3,4,4,2,5,5,"VISUAL, Kinestesico"
+10011258,Femenino,17,4,4,3,3,3,3,4,3,4,4,3,2,5,3,5,"AUDITIVO, Kinestesico"
+10011259,Femenino,19,4,4,3,4,5,3,4,3,4,3,2,4,4,2,5,VISUAL
+10011260,Femenino,17,4,3,3,4,2,3,3,4,4,3,5,2,4,3,5,Kinestesico
+10011261,Femenino,17,2,3,4,3,2,3,4,2,2,4,2,4,2,4,5,Kinestesico
+10011262,Femenino,17,5,3,3,4,4,4,1,3,2,4,2,5,3,5,5,Kinestesico
+10011263,Femenino,15,4,5,4,3,3,3,3,4,4,3,3,5,2,2,5,VISUAL
+10011264,Femenino,17,4,4,2,3,2,2,3,2,4,2,4,2,5,2,5,Kinestesico
+10011265,Femenino,19,3,2,5,3,4,4,5,3,4,2,4,2,4,4,5,Kinestesico
+10011266,Femenino,18,4,3,5,2,4,3,4,4,2,4,2,4,2,4,5,VISUAL
+10011267,Femenino,19,5,3,4,4,2,4,2,4,3,5,3,2,3,4,5,"VISUAL, AUDITIVO"
+10011268,Masculino,19,5,4,3,5,3,4,4,2,4,2,5,2,3,4,5,VISUAL
+10011269,Femenino,20,5,3,4,2,4,2,4,2,2,5,3,4,3,3,5,"VISUAL, Kinestesico"
+10011270,Femenino,19,4,3,4,4,4,2,2,3,3,2,2,4,4,5,5,Kinestesico
+10011271,Femenino,19,4,3,5,2,4,4,4,4,3,4,3,4,3,4,5,"AUDITIVO, Kinestesico"
+10011272,Femenino,19,3,3,3,5,3,2,4,2,2,5,3,3,4,3,5,Kinestesico
+10011273,Femenino,19,1,3,3,4,3,4,4,4,3,4,3,4,4,4,5,Kinestesico
+10011274,Masculino,18,4,4,3,3,2,3,3,3,4,4,2,4,3,3,5,"AUDITIVO, Kinestesico"
+10011275,Femenino,19,4,3,4,3,2,3,3,3,3,3,4,4,4,2,5,Kinestesico
+10011276,Femenino,19,4,3,3,4,3,3,3,3,5,3,4,3,3,3,5,Kinestesico
+10011277,Masculino,19,4,3,3,5,4,3,3,4,3,3,4,3,3,4,5,"VISUAL, Kinestesico"
+10011278,Masculino,20,1,4,2,3,2,2,2,3,3,2,3,3,2,3,5,Kinestesico
+10011279,Femenino,18,4,3,3,2,3,2,2,3,3,2,2,3,3,3,5,Kinestesico
+10011280,Masculino,16,4,4,3,2,4,3,3,2,3,3,4,3,4,2,5,Kinestesico
+10011281,Masculino,17,4,4,2,4,2,3,2,2,2,1,2,2,3,2,5,VISUAL
+10011282,Masculino,16,2,3,2,2,2,2,2,2,2,2,2,2,1,2,5,Kinestesico
+10011283,Femenino,16,3,1,2,3,3,3,4,3,2,3,4,3,3,3,5,Kinestesico
+10011284,Femenino,15,4,3,3,3,2,3,2,2,2,4,2,2,2,3,5,VISUAL
+10011285,Femenino,16,3,2,3,1,2,2,2,3,3,2,3,2,2,2,5,Kinestesico
+10011286,Femenino,15,2,2,3,2,4,3,3,2,2,3,1,3,3,2,5,Kinestesico
+10011287,Femenino,16,4,3,3,3,2,3,2,4,2,2,2,2,2,3,5,VISUAL
+10011288,Masculino,15,3,3,3,2,3,3,2,2,3,3,3,2,2,2,5,"VISUAL, Kinestesico"
+10011289,Masculino,16,3,2,2,2,4,2,4,2,4,3,2,3,3,2,5,"AUDITIVO, Kinestesico"
+10011290,Masculino,17,2,2,1,2,1,3,2,2,3,2,2,1,3,1,5,"AUDITIVO, Kinestesico"
+10011291,Masculino,16,3,2,1,2,1,2,1,2,4,3,3,3,3,3,5,Kinestesico
+10011292,Masculino,17,3,2,4,4,2,3,4,3,3,2,5,4,4,2,5,Kinestesico
+10011293,Masculino,17,4,3,3,2,4,3,3,3,3,4,2,2,3,3,5,"VISUAL, AUDITIVO"
+10011294,Femenino,19,2,4,2,2,2,1,3,2,4,3,2,3,3,2,5,Kinestesico
+10011295,Masculino,18,2,3,2,3,4,4,2,3,3,3,4,4,4,4,5,Kinestesico
+10011296,Femenino,17,3,2,1,2,3,2,1,3,1,2,2,1,3,3,5,Kinestesico
+10011297,Masculino,17,3,3,1,3,2,3,1,4,1,4,3,1,3,3,5,Kinestesico
+10011298,Femenino,17,4,3,2,4,3,3,3,3,2,2,1,2,1,2,5,VISUAL
+10011299,Masculino,17,3,3,3,2,2,2,3,2,3,3,2,3,2,3,5,Kinestesico
+10011300,Masculino,16,5,3,5,4,3,4,4,4,4,4,3,4,4,3,5,"VISUAL, AUDITIVO"
+10011301,Masculino,17,4,1,4,3,2,3,2,4,3,3,2,3,3,4,5,Kinestesico
+10011302,Femenino,16,4,3,3,2,3,3,3,2,2,4,4,5,4,5,5,Kinestesico
+10011303,Femenino,17,5,2,3,4,3,3,4,3,3,3,4,3,2,4,5,Kinestesico
+10011304,Femenino,18,3,3,3,5,3,4,4,5,3,3,4,3,3,5,5,Kinestesico
+10011305,Femenino,18,4,2,5,3,3,2,4,4,2,1,3,5,3,2,5,Kinestesico
+10011306,Masculino,16,3,2,4,4,5,3,4,4,2,4,3,5,2,4,5,Kinestesico
+10011307,Femenino,16,3,3,5,4,4,4,3,2,4,4,3,4,2,5,5,"VISUAL, Kinestesico"
+10011308,Masculino,16,3,5,3,3,3,1,2,4,3,2,2,5,5,3,5,Kinestesico
+10011309,Femenino,16,2,4,1,4,2,3,3,2,4,3,3,4,5,5,5,Kinestesico
+10011310,Masculino,17,4,2,5,2,4,5,4,3,4,2,5,2,4,4,5,Kinestesico
+10011311,Femenino,16,3,3,3,2,2,1,4,2,4,2,4,3,2,4,5,Kinestesico
+10011312,Femenino,17,4,5,2,4,4,2,4,2,4,3,2,4,4,3,5,VISUAL
+10011313,Femenino,16,4,4,2,4,2,4,3,3,3,2,3,4,2,4,5,Kinestesico
+10011314,Masculino,15,3,4,4,2,3,4,2,5,2,4,2,4,2,3,5,AUDITIVO
+10011315,Masculino,17,4,4,4,3,3,3,2,4,2,4,4,3,3,2,5,VISUAL
+10011316,Masculino,17,5,3,3,1,2,3,2,2,4,4,3,3,3,3,5,Kinestesico
+10011317,Femenino,16,4,3,2,4,2,4,4,4,4,3,4,3,3,4,5,"AUDITIVO, Kinestesico"
+10011318,Femenino,16,4,3,3,4,4,3,3,4,2,4,3,3,3,3,5,VISUAL
+10011319,Femenino,16,2,4,1,4,3,4,2,4,3,2,3,2,3,4,5,Kinestesico
+10011320,Masculino,17,3,5,2,4,5,3,4,3,4,3,4,4,3,4,5,Kinestesico
+10011321,Masculino,16,5,4,3,3,3,3,4,3,4,3,5,3,4,3,5,Kinestesico
+10011322,Femenino,16,1,3,2,3,3,4,3,3,2,3,4,3,4,3,5,Kinestesico
+10011323,Masculino,17,3,4,2,4,2,4,3,4,5,1,4,4,4,4,5,Kinestesico
+10011324,Femenino,17,5,3,5,3,4,4,3,5,3,5,4,4,4,3,5,"VISUAL, AUDITIVO, Kinestesico"
+10011325,Femenino,18,3,4,3,2,3,3,3,4,3,4,3,5,3,4,5,Kinestesico
+10011326,Femenino,19,3,3,1,4,3,3,4,2,2,4,1,1,2,2,5,AUDITIVO
+10011327,Masculino,15,3,2,2,1,2,3,1,3,2,2,1,5,2,5,5,Kinestesico
+10011328,Femenino,18,3,4,2,4,3,3,3,5,3,5,4,4,4,5,5,Kinestesico
+10011329,Femenino,16,4,3,2,2,3,2,4,3,2,2,2,3,3,3,5,Kinestesico
+10011330,Femenino,18,4,5,1,4,3,4,1,2,4,4,4,3,4,5,5,Kinestesico
+10011331,Masculino,15,5,4,3,4,5,4,3,4,4,3,2,2,2,2,5,VISUAL
+10011332,Masculino,16,4,3,2,3,2,1,4,4,4,3,2,3,4,3,5,Kinestesico
+10011333,Masculino,19,5,5,2,4,2,2,3,4,2,2,3,4,2,5,5,Kinestesico
+10011334,Masculino,18,4,4,2,3,2,4,2,4,1,4,2,4,2,4,5,Kinestesico
+10011335,Femenino,16,4,4,3,2,4,2,5,4,3,4,3,3,5,2,5,"AUDITIVO, Kinestesico"
+10011336,Femenino,19,1,4,3,4,2,2,2,2,1,4,2,3,3,3,5,Kinestesico
+10011337,Femenino,20,2,3,3,4,4,2,4,4,2,3,5,3,4,3,5,Kinestesico
+10011338,Femenino,19,1,4,2,5,2,4,2,4,3,4,2,4,2,5,5,Kinestesico
+10011339,Masculino,17,4,3,2,3,3,2,2,2,4,3,4,3,4,3,5,Kinestesico
+10011340,Femenino,17,2,4,2,4,2,5,3,5,5,4,3,5,5,3,5,AUDITIVO
+10011341,Femenino,16,2,5,2,4,3,5,3,5,3,3,5,5,5,4,5,Kinestesico
+10011342,Femenino,16,4,3,4,4,3,3,4,3,5,3,4,3,5,5,5,Kinestesico
+10011343,Femenino,17,3,4,2,4,2,4,5,5,2,5,4,5,2,5,5,"AUDITIVO, Kinestesico"
+10011344,Masculino,20,4,3,4,4,5,3,4,2,4,3,4,3,5,4,5,Kinestesico
+10011345,Masculino,17,4,4,3,4,4,3,4,4,5,3,5,4,5,4,5,Kinestesico
+10011346,Masculino,16,5,3,3,5,5,4,3,4,4,4,4,4,5,3,5,"VISUAL, Kinestesico"
+10011347,Femenino,17,4,4,3,3,4,2,5,3,3,3,4,4,3,3,5,Kinestesico
+10011348,Femenino,16,4,3,3,3,5,2,4,4,3,4,2,4,3,2,5,VISUAL
+10011349,Femenino,19,3,4,3,4,5,4,4,3,4,4,3,4,3,3,5,"VISUAL, AUDITIVO"
+10011350,Femenino,19,4,4,2,4,3,4,4,2,4,4,4,3,3,5,5,Kinestesico
+10011351,Femenino,20,4,3,2,3,4,3,4,3,4,3,5,2,4,4,5,Kinestesico
+10011352,Femenino,19,3,4,5,2,4,5,3,5,2,4,3,2,4,4,5,AUDITIVO
+10011353,Masculino,19,3,5,5,3,5,4,3,5,5,4,4,4,2,4,5,"VISUAL, AUDITIVO"
+10011354,Masculino,19,4,4,3,4,3,3,3,4,3,5,3,4,3,5,5,Kinestesico
+10011355,Femenino,20,4,5,3,4,5,3,4,4,3,3,1,2,2,1,5,VISUAL
+10011356,Femenino,20,2,2,4,3,1,2,3,2,2,1,2,2,3,3,5,Kinestesico
+10011357,Femenino,18,4,3,2,3,2,3,3,3,2,3,3,2,3,4,5,Kinestesico
+10011358,Femenino,18,5,3,3,4,2,4,2,4,3,4,3,4,2,3,5,"VISUAL, AUDITIVO, Kinestesico"
+10011359,Masculino,21,4,4,2,4,2,4,3,4,4,3,3,5,5,3,5,Kinestesico
+10011360,Femenino,18,4,4,3,3,4,4,2,4,2,1,2,2,2,2,5,VISUAL
+10011361,Femenino,19,3,4,1,4,4,4,3,4,4,2,2,4,2,3,5,AUDITIVO
+10011362,Masculino,17,4,3,2,3,2,3,2,3,2,4,2,4,2,2,5,Kinestesico
+10011363,Masculino,20,3,4,2,4,4,3,2,4,3,4,2,4,4,4,5,Kinestesico
+10011364,Femenino,16,4,5,5,4,4,3,2,3,4,4,2,2,5,2,5,VISUAL
+10011365,Femenino,18,4,4,2,5,5,5,3,4,3,2,3,2,3,2,5,VISUAL
+10011366,Femenino,16,4,4,4,4,2,3,2,4,2,4,2,4,4,5,5,Kinestesico
+10011367,Femenino,18,4,5,5,4,3,4,5,5,4,4,5,4,4,4,5,"AUDITIVO, Kinestesico"
+10011368,Masculino,19,5,3,4,4,3,5,3,5,4,5,4,2,4,4,5,AUDITIVO
+10011369,Masculino,18,4,4,3,3,2,3,2,3,3,2,2,4,3,2,5,"VISUAL, Kinestesico"
+10011370,Femenino,18,5,5,4,5,3,5,4,5,2,3,3,4,1,3,5,VISUAL
+10011371,Femenino,19,4,3,3,4,3,4,3,4,3,2,2,3,2,3,5,VISUAL
+10011372,Masculino,17,2,1,3,2,3,2,1,1,3,1,2,1,3,3,5,Kinestesico
+10011373,Masculino,18,1,2,2,2,1,2,3,3,2,2,1,2,2,4,5,Kinestesico
+10011374,Masculino,19,3,3,2,3,4,4,5,5,3,4,4,3,4,4,5,AUDITIVO
+10011375,Masculino,18,1,3,2,2,2,3,2,2,1,1,3,1,1,2,5,Kinestesico
+10011376,Femenino,19,3,2,2,3,2,1,3,2,1,1,2,3,3,2,5,Kinestesico
+10011377,Masculino,18,3,3,2,4,2,4,2,3,2,1,1,3,2,1,5,VISUAL
+10011378,Masculino,20,4,2,3,2,2,1,3,1,3,2,4,2,2,3,5,Kinestesico
+10011379,Femenino,20,1,3,3,3,2,3,3,2,2,3,1,3,1,1,5,AUDITIVO
+10011380,Femenino,20,3,2,3,2,3,2,3,2,3,2,3,2,4,2,5,Kinestesico
+10011381,Masculino,21,3,3,2,3,3,1,4,3,4,3,3,2,2,2,5,AUDITIVO
+10011382,Masculino,18,1,2,3,2,2,3,2,3,2,2,2,2,2,4,5,Kinestesico
+10011383,Masculino,18,2,5,4,3,4,3,3,2,1,3,1,2,1,3,5,VISUAL
+10011384,Masculino,17,2,2,4,2,2,1,5,2,4,5,4,2,4,4,5,Kinestesico
+10011385,Masculino,18,2,2,3,3,2,1,2,2,1,3,2,2,2,1,5,"VISUAL, Kinestesico"
+10011386,Femenino,18,4,5,4,5,4,4,2,2,2,4,2,3,2,3,5,VISUAL
+10011387,Masculino,19,3,4,3,4,3,3,4,4,4,4,5,5,4,3,5,Kinestesico
+10011388,Masculino,21,3,2,4,4,3,3,2,4,2,3,5,3,2,3,5,Kinestesico
+10011389,Femenino,15,2,1,2,2,2,3,2,1,3,2,2,2,2,2,5,Kinestesico
+10011390,Masculino,21,1,2,3,2,2,2,2,2,2,1,2,1,3,2,5,Kinestesico
+10011391,Masculino,19,1,1,4,2,4,3,3,3,4,4,2,4,2,4,5,"AUDITIVO, Kinestesico"
+10011392,Masculino,20,5,4,4,5,3,4,4,3,5,4,4,3,3,3,5,VISUAL
+10011393,Masculino,20,2,2,2,3,4,3,2,2,1,1,1,2,3,2,5,"VISUAL, Kinestesico"
+10011394,Femenino,20,3,2,2,3,3,2,3,2,2,3,2,1,4,4,5,Kinestesico
+10011395,Femenino,20,2,5,5,3,4,4,4,3,4,3,4,5,2,4,5,Kinestesico
+10011396,Femenino,18,3,3,2,2,3,2,3,4,2,4,2,3,4,2,5,Kinestesico
+10011397,Masculino,19,1,3,3,2,3,2,3,3,2,3,3,2,3,3,5,Kinestesico
+10011398,Masculino,20,2,2,2,2,2,2,2,2,1,3,3,2,2,1,5,Kinestesico
+10011399,Masculino,19,2,4,4,3,5,4,4,3,4,3,4,5,4,4,5,Kinestesico
+10011400,Femenino,16,4,4,2,3,3,3,3,3,4,4,3,4,4,3,5,Kinestesico
+10011401,Masculino,17,4,4,5,4,5,4,3,5,4,4,4,3,4,4,5,VISUAL
+10011402,Femenino,16,3,3,3,3,3,3,3,2,3,4,3,3,3,4,5,Kinestesico
+10011403,Masculino,16,2,4,4,3,4,5,3,4,4,4,4,3,3,4,5,AUDITIVO
+10011404,Masculino,18,3,4,5,4,4,5,4,3,3,4,4,3,3,3,5,VISUAL
+10011405,Femenino,16,5,4,4,2,3,3,3,4,4,3,4,5,3,4,5,Kinestesico
+10011406,Masculino,20,2,4,4,3,2,5,3,5,3,4,3,4,4,3,5,AUDITIVO
+10011407,Femenino,20,2,5,4,3,2,2,2,1,2,3,2,3,2,2,5,VISUAL
+10011408,Femenino,20,1,4,4,3,3,3,4,4,3,4,3,4,3,4,5,Kinestesico
+10011409,Femenino,19,2,3,3,3,3,2,2,3,3,3,3,3,2,3,5,Kinestesico
+10011410,Femenino,21,3,4,4,4,4,4,3,4,4,3,3,4,4,4,5,Kinestesico
+10011411,Femenino,20,2,4,3,3,3,4,4,5,3,3,4,3,4,4,5,Kinestesico
+10011412,Femenino,19,4,4,3,4,3,3,3,4,3,3,4,4,4,5,5,Kinestesico
+10011413,Femenino,19,4,2,3,4,3,2,3,3,3,2,2,3,3,2,5,VISUAL
+10011414,Femenino,19,3,4,3,4,3,4,3,4,4,3,4,4,3,3,5,Kinestesico
+10011415,Femenino,16,2,4,4,3,3,4,3,3,2,3,2,2,2,3,5,VISUAL
+10011416,Femenino,16,3,3,2,2,3,2,1,2,3,3,3,2,3,3,5,Kinestesico
+10011417,Femenino,16,3,3,1,3,3,2,3,2,2,2,3,2,2,2,5,Kinestesico
+10011418,Masculino,20,3,3,2,2,3,2,2,2,2,2,3,2,4,3,5,Kinestesico
+10011419,Masculino,19,4,4,4,4,3,4,3,3,3,4,3,3,4,3,5,VISUAL
+10011420,Femenino,21,4,3,3,3,3,4,3,2,4,4,4,4,4,3,5,Kinestesico
+10011421,Femenino,20,4,4,4,4,4,2,5,4,3,5,4,5,4,3,5,Kinestesico
+10011422,Femenino,16,4,3,5,3,3,5,4,3,3,4,4,4,5,5,5,Kinestesico
+10011423,Femenino,20,1,3,2,4,3,2,2,3,2,3,2,2,3,2,5,Kinestesico
+10011424,Femenino,20,4,4,5,4,4,5,4,5,5,3,4,4,4,3,5,AUDITIVO
+10011425,Femenino,18,2,3,3,2,3,3,2,2,2,2,2,2,4,4,5,Kinestesico
+10011426,Femenino,17,2,4,3,3,4,3,4,3,4,3,4,3,4,4,5,Kinestesico
+10011427,Femenino,16,4,4,5,4,3,5,3,2,4,3,3,4,4,4,5,"VISUAL, Kinestesico"
+10011428,Femenino,20,3,3,3,3,3,2,3,3,3,3,5,5,3,4,5,Kinestesico
+10011429,Masculino,20,2,5,4,3,4,3,3,3,3,4,5,4,5,4,5,Kinestesico
+10011430,Femenino,16,1,2,4,2,2,3,2,2,3,3,2,3,2,2,5,Kinestesico
+10011431,Masculino,18,2,1,2,4,2,2,4,2,2,2,3,3,2,2,5,Kinestesico
+10011432,Femenino,20,3,3,2,3,3,2,3,2,3,2,2,2,3,2,5,"VISUAL, Kinestesico"
+10011433,Masculino,20,2,3,4,2,4,3,3,4,3,4,4,4,3,5,5,Kinestesico
+10011434,Femenino,19,4,4,2,4,4,4,4,3,4,5,4,5,5,4,5,Kinestesico
+10011435,Femenino,17,3,2,3,3,2,3,2,3,3,2,3,3,2,3,5,Kinestesico
+10011436,Femenino,16,2,3,2,3,3,2,4,2,4,2,2,4,4,2,5,Kinestesico
+10011437,Femenino,19,4,5,3,4,5,2,5,3,3,5,4,3,4,4,5,VISUAL
+10011438,Femenino,18,3,4,3,4,4,3,4,4,4,3,5,5,4,2,5,Kinestesico
+10011439,Masculino,17,4,4,3,4,4,2,3,3,5,4,3,5,4,5,5,Kinestesico
+10011440,Masculino,17,3,4,3,4,3,4,2,2,2,2,2,3,4,3,5,"VISUAL, Kinestesico"
+10011441,Femenino,16,2,2,3,2,3,3,3,2,2,1,3,2,2,2,5,Kinestesico
+10011442,Masculino,16,3,4,2,3,2,3,2,3,3,3,3,4,3,4,5,Kinestesico
+10011443,Masculino,16,3,4,3,3,4,4,4,3,3,4,3,4,4,4,5,Kinestesico
+10011444,Masculino,16,4,4,4,2,4,3,3,2,3,2,5,4,3,4,5,Kinestesico
+10011445,Masculino,18,4,4,3,4,4,3,4,3,4,4,3,3,4,3,5,VISUAL
+10011446,Masculino,16,3,3,3,4,3,3,5,4,5,4,4,3,4,4,5,AUDITIVO
+10011447,Femenino,16,3,4,2,4,4,3,4,3,4,3,4,4,3,4,5,Kinestesico
+10011448,Masculino,19,5,4,4,3,5,4,4,3,4,3,3,4,3,3,5,VISUAL
+10011449,Femenino,18,3,3,2,5,4,4,4,4,3,5,5,4,4,3,5,Kinestesico
+10011450,Masculino,17,4,4,3,4,4,4,5,4,4,5,4,4,3,4,5,AUDITIVO
+10011451,Masculino,16,5,4,3,3,4,4,4,3,4,3,5,4,4,4,5,Kinestesico
+10011452,Masculino,18,4,4,3,4,3,4,3,5,4,3,4,4,3,3,5,"AUDITIVO, Kinestesico"
+10011453,Masculino,17,4,5,2,4,3,3,2,2,3,2,3,3,3,3,5,VISUAL
+10011454,Femenino,16,4,3,3,3,2,3,3,2,3,3,3,2,2,3,5,"VISUAL, Kinestesico"
+10011455,Femenino,17,4,2,3,3,2,3,3,2,2,5,3,5,2,3,5,Kinestesico
+10011456,Femenino,16,3,3,2,3,3,3,2,2,2,3,3,3,2,2,5,Kinestesico
+10011457,Femenino,18,1,2,2,4,3,2,4,2,2,3,2,5,2,5,5,Kinestesico
+10011458,Masculino,16,1,3,3,3,3,2,2,2,4,3,3,3,3,3,5,Kinestesico
+10011459,Masculino,18,2,1,3,3,2,3,2,2,3,3,2,2,3,2,5,Kinestesico
+10011460,Masculino,18,4,3,3,4,2,3,3,5,3,3,4,3,5,3,5,Kinestesico
+10011461,Masculino,17,3,5,3,4,2,4,3,3,3,3,3,5,4,3,5,Kinestesico
+10011462,Femenino,17,2,4,3,3,2,4,3,4,2,4,2,4,3,3,5,"AUDITIVO, Kinestesico"
+10011463,Femenino,18,3,4,3,4,2,4,3,3,3,2,3,2,3,3,5,"VISUAL, Kinestesico"
+10011464,Masculino,16,3,2,2,3,2,2,4,3,2,3,2,4,2,3,5,Kinestesico
+10011465,Femenino,15,3,4,3,1,3,2,2,3,2,4,2,3,2,4,5,Kinestesico
+10011466,Femenino,17,5,4,3,4,3,4,3,4,4,4,5,3,4,4,5,Kinestesico
+10011467,Femenino,17,3,3,3,5,5,3,3,3,2,4,1,4,2,4,5,VISUAL
+10011468,Femenino,17,4,4,3,3,4,3,4,4,3,4,3,4,5,3,5,Kinestesico
+10011469,Masculino,17,4,4,3,2,4,2,5,3,4,2,4,4,2,5,5,Kinestesico
+10011470,Masculino,17,3,4,3,4,4,3,4,4,5,4,3,4,3,3,5,AUDITIVO
+10011471,Femenino,17,3,5,3,4,4,4,3,4,3,5,2,5,5,4,5,Kinestesico
+10011472,Masculino,20,3,3,5,3,4,4,4,5,3,4,5,4,4,4,5,Kinestesico
+10011473,Femenino,19,4,3,4,4,4,3,4,4,4,5,5,4,4,2,5,"AUDITIVO, Kinestesico"
+10011474,Masculino,16,2,4,4,4,5,5,5,3,5,2,5,4,3,5,5,Kinestesico
+10011475,Masculino,20,4,5,4,5,5,4,3,5,3,4,3,4,3,3,5,VISUAL
+10011476,Masculino,19,5,4,3,5,4,5,5,3,4,3,4,5,3,3,5,VISUAL
+10011477,Masculino,18,3,5,4,4,2,4,3,4,4,3,5,4,4,3,5,Kinestesico
+10011478,Femenino,18,4,5,3,4,4,4,3,4,4,4,4,5,4,4,5,Kinestesico
+10011479,Masculino,17,3,4,3,5,3,4,4,2,3,3,4,3,3,2,5,VISUAL
+10011480,Masculino,17,3,3,5,4,2,4,2,4,3,3,4,3,4,4,5,Kinestesico
+10011481,Masculino,19,3,4,3,3,3,5,4,1,3,4,2,4,4,2,5,"AUDITIVO, Kinestesico"
+10011482,Masculino,19,3,5,4,4,2,4,3,4,4,2,5,4,2,4,5,Kinestesico
+10011483,Masculino,20,3,4,2,4,5,2,5,3,4,4,3,4,3,3,5,"VISUAL, AUDITIVO, Kinestesico"
+10011484,Femenino,17,3,4,3,4,4,2,4,4,2,4,4,3,5,4,5,Kinestesico
+10011485,Masculino,17,4,4,2,2,2,3,3,3,2,3,3,3,3,3,5,Kinestesico
+10011486,Femenino,17,4,3,2,4,3,4,2,4,3,3,4,4,3,4,5,Kinestesico
+10011487,Masculino,18,2,4,3,3,4,2,4,2,4,2,4,3,4,2,5,Kinestesico
+10011488,Masculino,20,3,2,3,5,2,4,4,3,4,4,4,3,4,3,5,"AUDITIVO, Kinestesico"
+10011489,Masculino,19,5,4,4,3,3,4,4,3,4,3,4,5,3,4,5,Kinestesico
+10011490,Masculino,19,5,4,3,3,4,3,5,3,5,3,3,5,4,3,5,Kinestesico
+10011491,Femenino,20,4,4,3,4,2,3,2,4,2,5,3,3,5,4,5,Kinestesico
+10011492,Masculino,18,5,5,3,4,3,4,4,3,3,2,2,1,3,3,5,VISUAL
+10011493,Masculino,19,5,3,3,3,4,4,4,3,3,4,4,3,4,4,5,Kinestesico
+10011494,Masculino,19,4,3,4,3,4,4,4,4,3,5,3,4,3,4,5,AUDITIVO
+10011495,Femenino,18,3,2,3,4,3,3,4,3,2,5,3,4,4,2,5,Kinestesico
+10011496,Masculino,18,5,3,4,4,3,4,3,4,2,2,5,3,4,2,5,"VISUAL, Kinestesico"
+10011497,Masculino,19,3,4,2,4,4,2,4,1,4,3,3,4,4,3,5,Kinestesico
+10011498,Masculino,18,4,5,2,5,3,3,4,3,2,3,2,2,3,2,5,VISUAL
+10011499,Masculino,19,3,4,4,2,3,3,2,3,4,3,4,2,4,3,5,Kinestesico
+10011500,Masculino,16,4,3,2,2,2,5,4,3,4,3,4,5,4,3,5,Kinestesico
+10011501,Femenino,20,3,5,2,4,3,3,4,3,4,2,4,3,4,4,5,Kinestesico
+10011502,Masculino,20,2,1,2,5,2,4,3,3,4,5,3,3,3,3,5,AUDITIVO
+10011503,Masculino,19,3,4,3,5,5,3,4,5,4,2,2,2,2,2,5,VISUAL
+10011504,Masculino,17,2,3,2,3,3,3,2,2,2,2,2,3,3,3,5,Kinestesico
+10011505,Masculino,18,4,2,4,2,4,2,3,3,2,3,3,3,2,4,5,Kinestesico
+10011506,Femenino,20,2,4,4,3,4,5,2,4,4,3,2,4,2,4,5,AUDITIVO
+10011507,Masculino,17,3,4,3,2,3,2,3,2,4,3,3,2,4,3,5,Kinestesico
+10011508,Masculino,17,4,4,2,3,3,4,3,4,3,4,3,4,3,4,5,Kinestesico
+10011509,Masculino,19,3,4,4,3,4,3,2,4,3,5,3,3,5,3,5,Kinestesico
+10011510,Masculino,19,5,2,5,5,3,5,3,4,3,5,3,4,5,4,5,Kinestesico
+10011511,Femenino,18,4,3,4,4,3,4,2,4,2,4,3,4,5,3,5,Kinestesico
+10011512,Masculino,17,5,5,3,5,4,3,4,2,4,4,3,4,4,3,5,VISUAL
+10011513,Masculino,18,4,4,4,5,4,5,3,3,4,2,5,4,2,4,5,VISUAL
+10011514,Femenino,16,3,2,4,5,4,5,4,5,4,4,3,4,5,4,5,AUDITIVO
+10011515,Masculino,17,4,3,3,3,4,5,4,3,4,5,4,4,3,4,5,AUDITIVO
+10011516,Masculino,18,3,5,4,4,4,3,5,4,3,5,4,5,4,4,5,Kinestesico
+10011517,Masculino,18,4,4,3,3,4,3,5,5,5,3,2,4,3,4,5,AUDITIVO
+10011518,Femenino,18,5,3,3,5,4,5,4,4,5,4,3,4,4,3,5,AUDITIVO
+10011519,Femenino,19,3,3,3,4,4,2,4,4,3,3,5,5,4,4,5,Kinestesico
+10011520,Masculino,17,3,5,4,4,3,4,3,4,3,4,3,5,4,4,5,Kinestesico
+10011521,Femenino,18,4,4,3,3,4,4,4,5,4,4,4,4,4,5,5,Kinestesico
+10011522,Femenino,19,1,3,2,3,3,2,3,2,2,2,2,2,3,3,5,Kinestesico
+10011523,Masculino,21,3,2,4,4,4,3,5,3,4,3,4,2,3,4,5,"AUDITIVO, Kinestesico"
+10011524,Femenino,18,3,2,3,4,3,1,3,2,2,3,2,2,4,2,5,"VISUAL, Kinestesico"
+10011525,Femenino,18,3,4,5,3,2,4,4,2,4,2,4,2,4,2,5,"VISUAL, Kinestesico"
+10011526,Masculino,20,3,5,4,3,3,5,3,2,4,4,3,4,1,4,5,"VISUAL, AUDITIVO"
+10011527,Masculino,20,2,4,4,2,3,2,4,2,4,2,4,2,3,2,5,Kinestesico
+10011528,Masculino,21,2,3,3,3,2,3,2,4,4,1,5,2,4,4,5,Kinestesico
+10011529,Masculino,17,3,3,3,3,2,4,2,2,3,1,2,1,4,5,5,Kinestesico
+10011530,Masculino,18,4,5,3,1,3,2,3,4,2,3,2,4,4,2,5,Kinestesico
+10011531,Masculino,18,2,3,3,4,2,3,4,4,3,3,4,4,4,4,5,Kinestesico
+10011532,Masculino,17,4,4,4,3,5,4,3,3,5,5,5,4,4,4,5,Kinestesico
+10011533,Masculino,16,2,3,4,3,3,4,3,5,4,4,4,4,5,4,5,Kinestesico
+10011534,Femenino,18,3,5,4,4,3,5,3,4,4,5,4,4,4,4,5,"AUDITIVO, Kinestesico"
+10011535,Femenino,18,4,4,3,4,4,5,3,4,4,2,4,4,3,4,5,Kinestesico
+10011536,Femenino,16,5,4,3,4,4,5,5,4,4,4,5,5,4,4,5,Kinestesico
+10011537,Masculino,18,4,5,4,3,3,4,3,5,3,5,5,2,5,5,5,Kinestesico
+10011538,Masculino,17,3,4,4,2,4,3,5,3,5,4,5,4,5,3,5,Kinestesico
+10011539,Femenino,18,4,4,5,4,3,5,3,4,5,4,5,3,5,4,5,Kinestesico
+10011540,Masculino,17,5,4,4,5,5,3,4,4,3,5,4,3,5,3,5,VISUAL
+10011541,Masculino,19,4,4,2,4,4,3,5,2,4,3,4,4,3,5,5,Kinestesico
+10011542,Femenino,18,5,4,1,4,4,5,4,4,4,3,4,5,4,4,5,Kinestesico
+10011543,Masculino,19,4,5,4,4,5,5,4,4,4,4,4,4,4,3,5,VISUAL
+10011544,Masculino,19,5,5,4,3,4,3,4,3,4,4,4,4,4,4,5,"VISUAL, Kinestesico"
+10011545,Masculino,19,3,4,4,4,5,4,3,4,4,4,3,4,3,2,5,VISUAL
+10011546,Femenino,17,2,4,3,5,3,3,4,3,4,3,3,3,4,4,5,Kinestesico
+10011547,Masculino,17,5,5,4,4,4,4,4,3,4,3,3,3,3,3,5,VISUAL
+10011548,Masculino,16,3,4,4,4,3,4,3,3,3,4,5,4,4,4,5,Kinestesico
+10011549,Masculino,17,3,4,4,4,3,4,4,3,4,4,4,4,4,4,5,Kinestesico
+10011550,Masculino,17,3,4,4,4,4,4,3,3,4,5,3,4,3,4,5,"VISUAL, AUDITIVO, Kinestesico"
+10011551,Femenino,18,4,4,3,4,4,3,4,2,3,3,3,3,3,3,5,VISUAL
+10011552,Masculino,19,4,3,5,4,4,3,4,3,3,3,5,4,3,3,5,"VISUAL, Kinestesico"
+10011553,Femenino,17,2,3,3,3,3,3,3,3,3,3,4,3,3,4,5,Kinestesico
+10011554,Masculino,16,4,3,4,3,4,4,4,3,3,4,3,4,4,4,5,Kinestesico
+10011555,Femenino,17,3,5,3,4,5,4,4,4,4,4,5,3,5,4,5,Kinestesico
+10011556,Femenino,17,4,4,3,4,4,3,4,3,3,3,4,4,3,3,5,"VISUAL, Kinestesico"
+10011557,Masculino,16,5,3,5,4,4,4,4,4,2,5,3,3,4,3,5,VISUAL
+10011558,Masculino,16,4,4,3,4,4,5,4,3,4,3,5,4,4,3,5,Kinestesico
+10011559,Masculino,17,4,4,3,4,3,4,3,3,3,4,3,4,3,4,5,Kinestesico
+10011560,Femenino,16,3,4,3,5,3,3,5,3,5,4,2,4,4,4,5,AUDITIVO
+10011561,Masculino,18,3,5,3,4,4,3,4,3,4,4,3,5,5,3,5,Kinestesico
+10011562,Masculino,19,3,4,3,4,4,4,3,4,4,4,3,4,3,4,5,"AUDITIVO, Kinestesico"
+10011563,Femenino,18,3,4,2,4,4,4,4,3,4,4,3,3,4,4,5,"AUDITIVO, Kinestesico"
+10011564,Masculino,17,4,5,4,4,3,4,2,4,3,3,4,4,3,3,5,VISUAL
+10011565,Masculino,16,3,4,4,3,2,3,3,3,3,2,3,4,3,3,5,Kinestesico
+10011566,Masculino,16,4,3,3,4,4,4,3,5,3,3,3,3,4,4,5,Kinestesico
+10011567,Masculino,16,4,3,4,3,3,4,3,3,3,3,4,4,3,4,5,Kinestesico
+10011568,Masculino,17,2,3,2,3,3,4,4,4,3,2,3,4,3,4,5,Kinestesico
+10011569,Masculino,18,4,4,4,3,5,2,3,3,4,3,4,4,3,3,5,VISUAL
+10011570,Masculino,17,4,3,4,4,3,4,3,4,2,3,2,2,3,2,5,VISUAL
+10011571,Masculino,17,3,4,2,5,4,4,4,5,2,3,3,2,2,2,5,"VISUAL, AUDITIVO"
+10011572,Femenino,17,4,4,2,2,3,2,2,3,4,3,2,2,3,2,5,VISUAL
+10011573,Masculino,17,3,3,2,3,3,3,2,2,3,3,2,3,3,2,5,Kinestesico
+10011574,Masculino,16,3,2,3,2,4,3,2,3,4,3,4,3,2,3,5,Kinestesico
+10011575,Femenino,16,4,4,4,4,3,3,4,4,3,2,4,3,4,2,5,VISUAL
+10011576,Masculino,15,3,3,3,3,2,3,3,2,3,4,3,3,3,1,5,"AUDITIVO, Kinestesico"
+10011577,Femenino,17,2,3,2,3,3,3,2,3,3,2,3,3,3,3,5,Kinestesico
+10011578,Femenino,16,5,4,4,3,3,3,5,4,2,4,4,3,3,4,5,"VISUAL, Kinestesico"
+10011579,Femenino,16,4,4,3,4,4,4,4,5,3,4,4,4,4,4,5,Kinestesico
+10011580,Masculino,18,4,3,4,4,3,3,4,4,4,4,4,3,3,4,5,"AUDITIVO, Kinestesico"
+10011581,Femenino,16,5,3,4,4,4,3,3,4,4,4,3,4,3,4,5,VISUAL
+10011582,Femenino,16,4,3,4,4,3,3,4,3,4,4,3,3,4,4,5,Kinestesico
+10011583,Femenino,15,4,3,4,3,3,4,3,3,4,3,3,3,4,4,5,Kinestesico
+10011584,Femenino,17,5,3,4,5,4,3,3,4,3,4,4,3,4,3,5,VISUAL
+10011585,Femenino,15,4,4,4,3,4,4,3,3,4,4,4,3,3,4,5,"VISUAL, Kinestesico"
+10011586,Femenino,17,3,4,3,4,4,3,5,4,5,5,4,3,4,4,5,AUDITIVO
+10011587,Femenino,16,3,4,3,3,3,4,5,3,4,3,4,4,4,5,5,Kinestesico
+10011588,Femenino,17,4,3,4,3,4,3,4,4,4,3,3,3,4,3,5,"VISUAL, AUDITIVO, Kinestesico"
+10011589,Masculino,16,4,3,4,3,3,4,3,4,4,4,3,4,3,4,5,"AUDITIVO, Kinestesico"
+10011590,Masculino,16,4,3,4,5,3,4,4,4,4,3,3,3,4,4,5,"VISUAL, AUDITIVO, Kinestesico"
+10011591,Femenino,17,5,3,4,3,4,4,4,4,3,4,4,4,3,4,5,Kinestesico
+10011592,Masculino,17,3,3,3,4,4,2,4,3,4,4,3,3,3,3,5,"VISUAL, AUDITIVO, Kinestesico"
+10011593,Masculino,16,4,2,4,4,3,4,4,3,4,5,4,4,3,4,5,"AUDITIVO, Kinestesico"
+10011594,Masculino,15,3,4,3,4,3,4,4,4,4,3,4,3,3,5,5,Kinestesico
+10011595,Femenino,16,2,3,4,3,3,4,3,3,4,4,4,4,3,4,5,Kinestesico
+10011596,Femenino,16,2,3,5,4,3,3,4,3,4,4,4,3,4,4,5,Kinestesico
+10011597,Masculino,17,5,3,3,2,1,2,3,3,2,2,2,2,3,3,5,Kinestesico
+10011598,Femenino,17,4,2,3,3,2,2,3,3,3,2,3,3,3,2,5,Kinestesico
+10011599,Femenino,18,3,3,5,3,4,4,5,3,4,4,3,4,4,4,5,"AUDITIVO, Kinestesico"
+10011600,Masculino,17,3,2,3,2,3,2,2,3,3,2,2,2,3,3,5,Kinestesico
+10011601,Femenino,16,3,3,4,3,3,3,3,3,3,3,3,3,3,3,5,Kinestesico
+10011602,Masculino,16,2,3,3,3,3,3,3,2,3,3,2,3,2,4,5,Kinestesico
+10011603,Femenino,15,3,4,3,3,4,4,4,3,4,2,3,4,3,3,5,Kinestesico
+10011604,Femenino,17,4,4,3,4,5,3,3,3,3,4,4,4,3,3,5,VISUAL
+10011605,Masculino,17,5,3,4,3,4,4,4,2,3,4,3,3,4,3,5,VISUAL
+10011606,Masculino,16,4,3,4,4,3,3,4,5,3,4,4,4,4,3,5,Kinestesico
+10011607,Masculino,16,4,2,4,3,4,3,3,4,3,4,4,3,4,4,5,Kinestesico
+10011608,Masculino,16,3,3,4,3,4,4,3,4,4,4,4,4,3,4,5,Kinestesico
+10011609,Masculino,17,2,4,4,2,4,3,4,3,3,4,2,3,4,4,5,Kinestesico
+10011610,Femenino,16,4,4,3,2,3,3,3,3,2,4,3,5,3,3,5,Kinestesico
+10011611,Masculino,19,4,2,4,3,4,5,2,4,4,3,4,4,4,3,5,Kinestesico
+10011612,Masculino,17,5,3,3,5,4,4,3,4,4,3,4,4,3,4,5,"VISUAL, Kinestesico"
+10011613,Masculino,16,4,3,4,4,3,5,3,4,3,4,3,4,3,4,5,"AUDITIVO, Kinestesico"
+10011614,Masculino,20,3,4,3,4,4,5,3,4,3,4,3,3,4,4,5,"AUDITIVO, Kinestesico"
+10011615,Femenino,16,2,2,2,3,2,3,4,4,3,3,4,3,4,4,5,Kinestesico
+10011616,Femenino,19,5,4,3,4,4,4,3,3,4,5,4,5,3,4,5,Kinestesico
+10011617,Femenino,16,4,4,4,3,4,3,4,3,3,4,4,3,3,4,5,"VISUAL, Kinestesico"
+10011618,Masculino,18,4,3,4,3,3,3,3,2,3,2,4,2,3,4,5,Kinestesico
+10011619,Femenino,17,3,2,3,3,3,3,2,3,3,3,3,2,3,4,5,Kinestesico
+10011620,Masculino,17,3,4,2,4,3,4,3,4,3,4,2,3,3,4,5,AUDITIVO
+10011621,Masculino,17,3,4,4,3,4,4,3,3,4,4,4,4,4,4,5,Kinestesico
+10011622,Femenino,16,4,4,3,4,4,3,4,4,3,4,5,4,4,3,5,Kinestesico
+10011623,Masculino,10,2,2,4,4,3,4,3,4,3,3,4,2,5,2,5,Kinestesico
+10011624,Masculino,19,2,3,3,3,2,5,4,4,1,4,5,4,4,3,5,Kinestesico
+10011625,Masculino,21,4,4,4,2,3,2,5,5,2,4,5,5,5,3,5,Kinestesico
+10011626,Masculino,21,1,3,3,4,4,3,5,4,2,4,2,2,4,5,5,"AUDITIVO, Kinestesico"
+10011627,Femenino,19,2,4,2,2,2,3,4,5,4,3,4,5,3,2,5,"AUDITIVO, Kinestesico"
+10011628,Femenino,20,3,4,5,4,3,5,5,4,4,4,3,4,4,4,5,AUDITIVO
+10011629,Femenino,19,4,4,4,3,3,4,4,4,3,4,3,4,4,4,5,Kinestesico
+10011630,Masculino,20,5,3,4,3,3,4,5,3,4,4,4,4,4,4,5,Kinestesico
+10011631,Masculino,20,4,3,4,2,3,4,4,3,4,4,4,4,5,4,5,Kinestesico
+10011632,Masculino,21,2,2,2,3,4,2,4,1,2,3,3,4,4,4,5,Kinestesico
+10011633,Masculino,20,2,5,5,3,5,3,4,3,3,4,5,5,4,4,5,Kinestesico
+10011634,Femenino,21,3,4,5,5,4,5,2,3,3,4,4,1,5,4,5,VISUAL
+10011635,Masculino,21,2,4,3,4,4,3,2,3,3,4,5,4,5,4,5,Kinestesico
+10011636,Femenino,20,3,3,3,4,5,3,2,3,3,4,4,4,4,4,5,Kinestesico
+10011637,Femenino,17,4,4,4,3,3,1,4,4,3,2,4,4,4,3,5,Kinestesico
+10011638,Masculino,16,3,2,2,5,5,3,3,2,5,5,3,2,5,5,5,Kinestesico
+10011639,Masculino,18,4,3,3,4,3,2,3,3,3,4,3,4,5,4,5,Kinestesico
+10011640,Masculino,18,3,2,2,2,2,2,3,2,2,4,2,3,3,4,5,Kinestesico
+10011641,Masculino,17,4,3,3,3,4,3,4,3,4,3,3,4,3,3,5,Kinestesico
+10011642,Femenino,17,2,3,2,4,3,2,3,3,2,4,3,3,4,5,5,Kinestesico
+10011643,Masculino,16,5,5,5,5,5,5,5,5,5,1,5,1,5,5,5,VISUAL
+10011644,Masculino,18,1,2,1,1,2,1,1,3,1,1,1,1,1,1,5,Kinestesico
+10011645,Femenino,17,5,3,4,4,5,5,4,3,4,4,5,3,4,4,5,"VISUAL, Kinestesico"
+10011646,Masculino,19,5,3,4,3,2,3,5,4,4,3,5,5,5,4,5,Kinestesico
+10011647,Masculino,21,3,3,4,2,5,4,4,5,1,5,3,4,3,4,5,"AUDITIVO, Kinestesico"
+10011648,Masculino,15,2,4,4,2,1,2,1,4,2,1,1,2,1,4,5,"VISUAL, Kinestesico"
+10011649,Femenino,20,2,2,5,4,4,3,4,2,5,4,4,4,4,4,5,Kinestesico
+10011650,Femenino,21,5,4,4,5,2,4,5,5,5,5,5,5,5,5,5,Kinestesico
+10011651,Masculino,16,4,5,2,2,4,5,5,4,3,4,3,2,1,4,5,AUDITIVO
+10011652,Masculino,16,5,4,4,4,5,4,2,3,4,3,3,5,1,4,5,VISUAL
+10011653,Masculino,21,3,2,2,2,3,3,2,3,3,3,2,2,2,3,5,"AUDITIVO, Kinestesico"
+10011654,Femenino,15,2,1,5,1,3,3,1,1,2,1,1,4,2,2,5,Kinestesico
+10011655,Femenino,16,5,1,1,3,1,1,5,2,2,1,1,2,4,2,5,Kinestesico
+10011656,Masculino,17,3,2,5,3,3,3,3,1,2,3,4,4,3,4,5,Kinestesico
+10011657,Femenino,17,2,2,1,2,3,1,3,3,4,1,1,2,1,5,5,Kinestesico
+10011658,Femenino,19,2,2,1,1,1,1,1,1,2,2,1,3,1,2,5,Kinestesico
+10011659,Femenino,19,4,4,4,2,5,5,4,2,3,3,5,4,5,4,5,Kinestesico
+10011660,Femenino,19,5,3,5,5,5,1,1,1,5,5,1,5,4,5,5,VISUAL
+10011661,Femenino,18,5,4,4,5,3,4,4,3,5,3,4,4,5,4,5,Kinestesico
+10011662,Femenino,15,4,4,3,4,4,5,5,4,4,1,4,3,5,4,5,Kinestesico
+10011663,Masculino,10,5,5,3,3,3,5,5,5,5,4,5,5,5,3,5,AUDITIVO
+10011664,Femenino,18,3,2,4,4,3,4,3,4,3,3,5,4,5,4,5,Kinestesico
+10011665,Masculino,21,4,3,2,3,3,3,2,4,2,3,4,4,3,4,5,Kinestesico
+10011666,Masculino,21,4,2,4,2,2,3,2,4,4,4,2,2,2,4,5,AUDITIVO
+10011667,Femenino,18,2,3,2,5,5,3,2,4,3,4,4,3,5,5,5,Kinestesico
+10011668,Femenino,19,2,5,5,5,1,4,4,5,2,4,5,4,5,5,5,Kinestesico
+10011669,Femenino,18,3,4,3,3,4,4,4,4,1,3,1,4,5,4,5,Kinestesico
+10011670,Femenino,19,3,3,4,3,3,3,3,4,4,3,1,3,4,3,5,AUDITIVO
+10011671,Femenino,21,1,1,5,1,1,2,4,5,3,3,3,5,5,1,5,Kinestesico
+10011672,Femenino,16,4,5,5,5,4,4,5,5,3,4,5,5,5,5,5,Kinestesico
+10011673,Masculino,17,3,5,5,5,5,4,4,3,2,4,3,4,2,2,5,VISUAL
+10011674,Masculino,20,3,3,3,4,4,3,3,3,3,3,4,3,3,3,5,Kinestesico
+10011675,Masculino,17,4,5,5,4,4,4,5,5,5,5,3,4,4,5,5,AUDITIVO
+10011676,Femenino,21,3,4,4,5,4,4,3,2,3,3,4,3,3,2,5,VISUAL
+10011677,Masculino,17,5,1,1,2,2,5,5,5,5,5,1,5,1,4,5,AUDITIVO
+10011678,Masculino,17,5,1,1,2,2,5,5,5,5,5,1,5,1,4,5,AUDITIVO
+10011679,Masculino,18,3,3,4,4,5,5,4,4,3,4,5,4,5,4,5,Kinestesico
+10011680,Femenino,12,2,2,3,3,5,3,1,3,1,3,1,4,3,2,5,"VISUAL, Kinestesico"
+10011681,Femenino,12,1,1,4,2,1,3,5,4,2,2,1,4,3,3,5,"AUDITIVO, Kinestesico"
+10011682,Femenino,18,2,4,4,5,4,4,4,4,4,5,2,5,4,4,5,AUDITIVO
+10011683,Femenino,18,3,3,5,4,4,3,4,3,3,3,4,4,3,3,5,"VISUAL, Kinestesico"
+10011684,Femenino,18,4,3,4,2,3,4,3,3,3,4,4,5,4,2,5,Kinestesico
+10011685,Masculino,20,4,3,3,3,2,4,4,4,4,4,3,4,4,4,5,"AUDITIVO, Kinestesico"
+10011686,Femenino,14,3,5,4,3,3,4,5,4,4,5,5,5,5,5,5,Kinestesico
+10011687,Femenino,12,4,3,4,1,1,4,4,5,4,3,5,4,5,5,5,Kinestesico
+10011688,Masculino,21,1,5,4,5,3,3,5,3,3,4,4,4,3,2,5,"VISUAL, AUDITIVO, Kinestesico"
+10011689,Masculino,21,3,3,4,2,3,4,4,4,2,4,5,4,5,4,5,Kinestesico
+10011690,Femenino,15,3,3,4,4,5,4,4,2,3,4,5,4,5,5,5,Kinestesico
+10011691,Femenino,17,4,4,2,3,3,4,5,5,5,2,5,5,5,5,5,Kinestesico
+10011692,Femenino,20,4,4,4,3,4,5,5,5,5,5,5,5,5,5,5,"AUDITIVO, Kinestesico"
+10011693,Masculino,16,3,1,4,2,1,3,5,5,5,1,5,5,3,3,5,Kinestesico
+10011694,Femenino,16,3,4,4,4,4,4,3,2,3,3,3,3,4,3,5,VISUAL
+10011695,Femenino,19,3,4,4,4,4,4,3,2,3,3,3,3,4,3,5,VISUAL
+10011696,Femenino,21,4,3,4,4,3,4,4,3,4,4,4,4,4,4,5,Kinestesico
+10011697,Femenino,18,2,5,4,4,5,4,4,5,4,4,4,4,5,4,5,Kinestesico
+10011698,Masculino,20,4,3,3,2,3,4,4,3,3,4,4,3,2,4,5,"AUDITIVO, Kinestesico"
+10011699,Masculino,17,5,5,4,4,3,5,4,5,4,4,4,5,5,4,5,Kinestesico
+10011700,Masculino,21,4,5,5,1,1,5,4,3,5,5,5,1,3,1,5,AUDITIVO
+10011701,Femenino,18,3,2,3,3,3,4,2,2,2,4,5,3,4,3,5,Kinestesico
+10011702,Femenino,21,2,4,5,4,5,5,4,2,4,4,5,5,5,3,5,Kinestesico
+10011703,Masculino,21,2,4,5,1,1,1,3,4,1,5,3,5,5,4,5,Kinestesico
+10011704,Femenino,21,3,5,5,3,5,1,5,2,3,5,5,5,5,4,5,Kinestesico
+10011705,Masculino,21,3,4,4,4,3,5,4,2,4,4,5,5,3,4,5,Kinestesico
+10011706,Masculino,21,5,2,4,2,3,5,2,4,3,1,4,4,5,2,5,Kinestesico
+10011707,Masculino,20,4,4,3,3,2,5,4,5,4,4,5,5,4,3,5,"AUDITIVO, Kinestesico"
+10011708,Femenino,21,4,4,5,5,5,5,4,5,5,5,5,5,5,5,5,Kinestesico
+10011709,Masculino,21,4,2,3,2,2,4,4,4,2,4,4,4,5,3,5,Kinestesico
+10011710,Masculino,21,2,4,4,3,3,4,4,4,2,4,3,4,5,2,5,Kinestesico
+10011711,Femenino,15,3,3,3,4,4,4,4,3,3,4,4,4,4,3,5,Kinestesico
+10011712,Masculino,20,1,3,1,3,2,3,3,2,2,3,2,2,1,1,5,AUDITIVO
+10011713,Masculino,21,2,2,1,5,5,4,4,5,3,4,5,4,5,2,5,Kinestesico
+10011714,Masculino,20,3,3,3,4,3,4,2,3,3,4,4,3,3,3,5,Kinestesico
+10011715,Femenino,21,3,4,5,5,5,4,2,1,5,2,5,4,4,1,5,VISUAL
+10011716,Masculino,21,3,3,3,5,4,5,2,2,3,3,5,3,3,4,5,Kinestesico
+10011717,Masculino,20,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,Kinestesico
+10011718,Femenino,15,3,4,4,3,4,4,3,2,5,2,3,4,4,2,5,"VISUAL, Kinestesico"
+10011719,Femenino,15,2,2,2,2,2,3,2,4,1,3,5,3,4,2,5,Kinestesico
+10011720,Femenino,14,3,4,3,3,2,4,4,3,3,3,3,3,3,2,5,AUDITIVO
+10011721,Femenino,20,2,1,2,1,4,3,4,3,1,4,2,2,3,3,5,"AUDITIVO, Kinestesico"
+10011722,Femenino,14,5,2,2,2,1,3,3,5,4,4,4,4,5,5,5,Kinestesico
+10011723,Femenino,15,4,3,4,1,3,4,4,3,4,3,3,3,3,2,5,AUDITIVO
+10011724,Masculino,15,4,3,3,3,2,5,4,4,3,4,4,4,4,3,5,"AUDITIVO, Kinestesico"
+10011725,Masculino,16,1,3,3,3,4,3,3,4,2,3,5,5,5,2,5,Kinestesico
+10011726,Femenino,15,2,4,4,2,3,3,2,3,3,1,5,4,3,5,5,Kinestesico
+10011727,Femenino,16,3,4,3,4,3,4,3,2,2,4,4,4,2,1,5,VISUAL
+10011728,Masculino,15,3,4,4,4,5,4,4,5,1,4,4,5,5,1,5,"VISUAL, Kinestesico"
+10011729,Masculino,14,3,4,3,3,2,4,4,4,3,3,5,5,5,5,5,Kinestesico
+10011730,Femenino,14,1,5,3,5,2,5,5,4,3,4,4,5,5,4,5,Kinestesico
+10011731,Femenino,14,2,3,3,4,1,3,3,3,2,3,4,3,5,3,5,Kinestesico
+10011732,Femenino,18,3,3,3,2,2,4,4,5,5,4,4,4,5,4,5,"AUDITIVO, Kinestesico"
+10011733,Femenino,14,3,3,3,2,1,4,4,4,3,3,4,4,4,1,5,"AUDITIVO, Kinestesico"
+10011734,Femenino,15,1,1,1,2,2,5,5,5,3,2,5,5,3,2,5,"AUDITIVO, Kinestesico"
+10011735,Femenino,11,3,5,5,5,5,4,2,1,1,3,3,3,3,3,5,VISUAL
+10011736,Femenino,14,3,3,3,2,3,3,4,4,4,3,3,4,2,4,5,"AUDITIVO, Kinestesico"
+10011737,Masculino,15,5,4,3,3,4,4,5,4,1,3,5,5,5,2,5,Kinestesico
+10011738,Femenino,15,4,4,4,5,5,2,1,1,1,2,5,5,5,5,5,Kinestesico
+10011739,Femenino,15,3,4,4,3,3,4,4,3,2,3,5,5,5,5,5,Kinestesico
+10011740,Masculino,20,3,3,4,3,3,3,3,2,3,3,3,3,4,2,5,Kinestesico
+10011741,Masculino,20,1,1,3,2,5,3,4,1,3,3,1,3,5,5,5,Kinestesico
+10011742,Masculino,21,3,4,5,4,4,4,4,3,3,4,5,5,5,4,5,Kinestesico
+10011743,Femenino,21,5,3,5,2,2,3,5,2,5,5,4,5,5,5,5,Kinestesico
+10011744,Femenino,21,2,4,4,3,3,4,4,4,4,2,4,4,2,2,5,AUDITIVO
+10011745,Femenino,20,3,4,4,4,3,4,4,4,4,3,5,5,5,4,5,Kinestesico
+10011746,Femenino,21,3,4,5,2,3,5,4,5,4,4,5,5,5,3,5,Kinestesico
+10011747,Masculino,21,2,3,3,1,1,4,5,4,3,3,4,4,4,1,5,AUDITIVO
+10011748,Femenino,20,3,3,4,3,3,4,4,3,4,4,4,4,5,4,5,Kinestesico
+10011749,Masculino,21,3,3,3,3,4,4,4,3,2,4,4,4,4,2,5,Kinestesico
+10011750,Masculino,21,2,3,4,5,4,4,3,3,4,4,5,4,5,3,5,Kinestesico
+10011751,Masculino,21,2,2,2,2,2,4,2,3,3,4,5,4,4,4,5,Kinestesico
+10011752,Femenino,21,2,4,3,2,4,3,4,4,3,3,3,3,4,3,5,Kinestesico
+10011753,Masculino,21,3,3,4,4,2,4,4,4,2,5,4,3,3,4,5,"AUDITIVO, Kinestesico"
+10011754,Masculino,21,4,2,4,4,4,4,4,4,5,4,4,3,5,3,5,AUDITIVO
+10011755,Masculino,21,3,4,4,4,5,4,4,2,2,2,2,4,5,4,5,"VISUAL, Kinestesico"
+10011756,Femenino,21,1,5,5,5,5,2,1,2,2,3,4,3,4,4,5,VISUAL
+10011757,Femenino,21,5,4,4,4,3,4,2,4,5,4,4,4,5,4,5,Kinestesico
+10011758,Masculino,14,5,5,5,5,5,4,5,1,5,4,3,5,5,5,5,VISUAL
+10011759,Masculino,21,4,2,4,4,4,4,4,4,5,4,4,3,5,3,5,AUDITIVO
+10011760,Femenino,15,3,4,4,3,3,4,4,3,2,3,5,5,5,5,5,Kinestesico
+10011761,Femenino,20,2,4,4,2,1,3,5,5,5,5,4,3,5,2,5,AUDITIVO
+10011762,Femenino,21,3,3,4,2,3,4,2,3,3,3,3,3,5,3,5,Kinestesico
+10011763,Femenino,20,3,5,5,4,4,5,3,5,5,5,5,5,5,5,5,Kinestesico
+10011764,Femenino,20,4,4,4,4,5,4,4,5,3,4,4,3,5,5,5,Kinestesico
+10011765,Masculino,17,1,2,3,4,4,1,1,5,3,3,1,5,1,3,5,Kinestesico
+10011766,Femenino,21,2,5,4,3,2,5,3,5,5,4,5,5,5,4,5,Kinestesico
+10011767,Masculino,21,2,3,3,3,4,3,4,2,2,3,3,4,4,3,5,Kinestesico
+10011768,Femenino,20,3,5,3,5,5,4,5,3,3,4,4,4,5,4,5,Kinestesico
+10011769,Masculino,21,4,4,5,3,5,4,4,4,5,5,5,4,5,5,5,Kinestesico
+10011770,Femenino,20,4,3,2,4,1,3,3,5,4,2,2,2,4,4,5,"AUDITIVO, Kinestesico"
+10011771,Femenino,20,3,3,4,3,2,4,4,1,4,2,5,3,5,4,5,Kinestesico
+10011772,Femenino,15,2,3,3,2,1,2,2,4,4,2,4,4,5,4,5,Kinestesico
+10011773,Masculino,20,2,4,5,5,5,4,3,4,3,3,1,2,2,4,5,VISUAL
+10011774,Femenino,20,5,3,3,3,1,4,4,5,4,1,3,4,5,3,5,Kinestesico
+10011775,Femenino,20,3,4,3,3,3,3,3,4,3,3,2,5,5,3,5,Kinestesico
+10011776,Masculino,20,5,3,3,3,1,4,4,5,4,1,3,4,5,3,5,Kinestesico
+10011777,Masculino,18,3,3,3,4,3,4,4,4,4,3,4,4,3,3,5,"AUDITIVO, Kinestesico"
+10011778,Femenino,21,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Kinestesico
+10011779,Femenino,21,5,5,4,4,4,5,5,5,3,5,4,5,5,2,5,AUDITIVO
+10011780,Femenino,15,5,4,5,4,1,5,4,4,5,3,5,5,5,5,5,Kinestesico
+10011781,Femenino,15,5,4,5,4,1,5,4,4,5,3,5,5,5,5,5,Kinestesico
+10011782,Masculino,21,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,"VISUAL, AUDITIVO, Kinestesico"
+10011783,Femenino,21,4,3,3,4,5,4,4,2,3,4,4,4,5,5,5,Kinestesico
+10011784,Masculino,21,4,3,5,4,3,5,3,5,4,3,3,5,5,4,5,Kinestesico
+10011785,Masculino,21,3,3,4,4,3,4,4,3,3,3,2,3,3,3,5,"VISUAL, AUDITIVO"
+10011786,Femenino,14,5,5,5,5,4,4,4,1,2,3,2,5,1,1,5,VISUAL
+10011787,Femenino,18,3,3,3,4,3,4,4,4,4,3,4,4,3,3,5,"AUDITIVO, Kinestesico"
+10011788,Femenino,21,4,4,4,3,2,5,4,4,4,2,4,4,4,4,5,Kinestesico
+10011789,Masculino,21,2,2,3,1,3,3,2,4,2,2,5,2,4,3,5,Kinestesico
+10011790,Femenino,21,5,4,3,4,4,3,3,4,4,4,4,3,4,4,5,"VISUAL, Kinestesico"
+10011791,Femenino,21,2,4,4,4,4,3,4,3,3,5,3,2,3,5,5,"VISUAL, AUDITIVO, Kinestesico"
+10011792,Masculino,20,1,3,3,2,2,4,5,5,3,5,2,5,4,3,5,AUDITIVO
+10011793,Femenino,20,4,1,1,1,4,4,4,5,4,4,5,4,4,1,5,AUDITIVO
+10011794,Femenino,21,3,4,4,4,3,5,4,5,3,2,5,5,5,4,5,Kinestesico
+10011795,Masculino,21,3,5,4,2,3,5,5,5,3,4,3,5,5,4,5,"AUDITIVO, Kinestesico"
+10011796,Femenino,21,4,4,4,5,4,5,3,3,4,4,4,4,5,5,5,Kinestesico
+10011797,Femenino,21,4,4,4,3,3,4,4,3,4,5,3,4,4,4,5,"AUDITIVO, Kinestesico"
+10011798,Femenino,21,4,5,5,5,3,5,3,5,5,3,5,5,5,5,5,Kinestesico
+10011799,Femenino,20,3,3,4,3,5,5,4,3,5,3,4,4,5,3,5,Kinestesico
+10011800,Masculino,17,5,5,4,2,3,5,3,4,4,5,5,5,1,4,5,AUDITIVO
+10011801,Masculino,17,5,5,4,2,3,5,3,4,4,5,5,5,1,4,5,AUDITIVO
+10011802,Femenino,20,4,5,4,3,4,4,5,2,5,4,1,4,4,2,5,"VISUAL, AUDITIVO"
+10011803,Femenino,21,3,3,4,3,2,4,3,4,4,4,4,4,4,3,5,Kinestesico
+10011804,Femenino,21,4,3,3,4,2,5,3,3,2,4,5,4,4,4,5,Kinestesico
+10011805,Femenino,20,1,4,3,1,1,3,5,1,4,5,4,5,5,4,5,Kinestesico
+10011806,Masculino,21,2,3,3,3,2,3,4,1,2,4,2,2,1,2,5,AUDITIVO
+10011807,Femenino,21,4,4,4,4,4,4,4,4,4,4,4,4,5,4,5,Kinestesico
+10011808,Masculino,21,4,2,2,2,3,4,4,4,4,4,5,4,3,4,5,Kinestesico
+10011809,Femenino,21,3,2,2,4,5,3,4,1,3,3,2,2,3,3,5,VISUAL
+10011810,Femenino,21,5,5,5,5,5,5,5,4,3,1,4,4,5,1,5,VISUAL
+10011811,Femenino,20,4,4,4,5,4,4,4,5,4,4,5,5,5,4,5,Kinestesico
+10011812,Femenino,21,1,3,3,5,2,3,5,4,3,5,5,5,1,4,5,"AUDITIVO, Kinestesico"
+10011813,Masculino,21,3,4,3,5,4,2,4,3,4,3,4,4,4,4,5,Kinestesico
+10011814,Femenino,21,3,2,2,4,4,3,3,4,4,4,3,3,3,3,5,AUDITIVO
+10011815,Femenino,19,3,4,4,2,2,4,3,5,5,1,1,2,5,3,5,AUDITIVO
+10011816,Femenino,21,4,1,3,5,4,4,5,2,2,1,5,3,5,5,5,Kinestesico
+10011817,Femenino,21,4,3,4,5,5,3,3,1,3,3,1,1,1,3,5,VISUAL
+10011818,Femenino,20,2,2,3,5,5,5,5,5,5,5,3,3,5,3,5,AUDITIVO
+10011819,Masculino,21,1,4,4,4,4,5,3,4,4,4,3,3,4,4,5,AUDITIVO
+10011820,Femenino,21,2,3,3,4,3,3,2,3,3,3,5,3,5,4,5,Kinestesico
+10011821,Femenino,21,1,4,5,1,5,3,4,5,1,5,5,5,5,5,5,Kinestesico
+10011822,Masculino,21,5,3,5,3,2,3,4,3,5,4,4,5,4,4,5,Kinestesico
+10011823,Femenino,21,4,5,4,5,1,5,4,4,1,5,5,4,5,1,5,Kinestesico
+10011824,Femenino,21,3,5,5,5,5,5,5,4,4,5,3,4,5,4,5,"VISUAL, AUDITIVO"
+10011825,Masculino,20,3,5,4,5,5,4,5,2,2,4,4,5,2,3,5,VISUAL
+10011826,Masculino,21,5,4,4,3,1,4,5,4,5,4,3,4,5,3,5,AUDITIVO
+10011827,Femenino,20,3,2,2,2,5,2,4,2,1,2,4,5,4,3,5,Kinestesico
+10011828,Femenino,21,4,3,3,5,5,4,3,1,5,3,5,5,4,5,5,Kinestesico
+10011829,Masculino,21,3,3,3,3,3,3,3,3,3,3,5,3,3,3,5,Kinestesico
+10011830,Femenino,21,3,1,4,2,4,4,4,2,4,3,3,3,5,2,5,Kinestesico
+10011831,Femenino,21,3,4,3,2,1,3,2,2,3,4,5,4,4,3,5,Kinestesico
+10011832,Masculino,20,4,3,3,4,2,4,4,4,3,4,4,4,4,4,5,Kinestesico
+10011833,Femenino,21,4,4,4,2,4,4,5,4,5,5,3,4,4,4,5,AUDITIVO
+10011834,Masculino,21,5,3,2,4,4,3,5,5,3,4,5,5,4,4,5,Kinestesico
+10011835,Femenino,21,2,3,3,4,3,3,4,2,3,3,4,3,3,3,5,Kinestesico
+10011836,Masculino,16,1,4,4,4,3,4,5,4,3,5,5,5,5,5,5,Kinestesico
+10011837,Masculino,21,1,4,3,1,5,2,1,1,1,5,5,5,5,5,5,Kinestesico
+10011838,Femenino,21,2,4,4,4,2,3,2,3,5,4,1,4,5,4,5,Kinestesico
+10011839,Femenino,21,1,5,2,1,5,2,5,4,4,5,5,4,5,5,5,Kinestesico
+10011840,Femenino,19,2,2,1,3,1,4,2,4,2,2,3,2,3,2,5,Kinestesico
+10011841,Femenino,21,1,5,3,1,5,5,5,5,4,1,3,1,2,1,5,AUDITIVO
+10011842,Femenino,16,5,4,5,3,2,5,4,5,5,5,4,4,3,3,5,AUDITIVO
+10011843,Femenino,18,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,"VISUAL, Kinestesico"
+10011844,Femenino,19,2,3,3,3,1,5,4,5,5,5,4,4,4,4,5,AUDITIVO
+10011845,Masculino,21,2,4,3,4,4,4,3,2,3,3,5,3,4,3,5,Kinestesico
+10011846,Masculino,20,3,3,3,3,3,3,4,3,3,4,3,2,2,2,5,AUDITIVO
+10011847,Masculino,20,3,3,3,3,3,3,4,3,3,4,3,2,2,2,5,AUDITIVO
+10011848,Femenino,10,3,5,5,3,4,5,5,4,4,5,5,5,5,3,5,"AUDITIVO, Kinestesico"
+10011849,Femenino,15,3,4,2,3,2,4,5,3,3,2,3,3,2,1,5,AUDITIVO
+10011850,Femenino,20,1,4,4,3,2,4,4,5,4,4,4,4,3,3,5,AUDITIVO
+10011851,Femenino,20,1,4,1,1,1,3,3,1,3,1,4,4,5,5,5,Kinestesico
+10011852,Masculino,21,3,2,3,1,1,5,3,4,1,2,5,5,5,5,5,Kinestesico
+10011853,Femenino,19,5,5,5,5,5,5,4,4,4,3,5,5,5,4,5,VISUAL
+10011854,Masculino,21,4,4,2,4,4,4,4,5,4,4,5,4,4,2,5,AUDITIVO
+10011855,Femenino,21,2,5,5,4,4,3,4,4,4,3,5,4,5,5,5,Kinestesico
+10011856,Masculino,20,3,4,3,2,3,4,4,4,4,3,4,4,4,4,5,Kinestesico
+10011857,Masculino,20,3,4,3,4,3,4,3,4,3,3,5,4,5,4,5,Kinestesico
+10011858,Masculino,20,4,2,3,2,5,4,1,3,2,4,2,2,2,3,5,VISUAL
+10011859,Masculino,20,4,4,3,2,2,4,5,4,3,3,5,5,5,5,5,Kinestesico
+10011860,Masculino,21,5,5,3,2,3,5,1,4,4,3,5,3,5,5,5,Kinestesico
+10011861,Masculino,20,4,4,4,4,4,4,4,4,5,5,4,4,4,4,5,AUDITIVO
+10011862,Femenino,21,2,3,3,3,3,4,2,2,3,3,4,2,3,3,5,Kinestesico
+10011863,Masculino,20,2,3,3,4,2,3,4,3,2,2,4,4,3,4,5,Kinestesico
+10011864,Masculino,20,3,2,3,4,4,2,4,4,2,4,2,2,2,4,5,"VISUAL, AUDITIVO"
+10011865,Masculino,18,5,3,2,4,4,4,3,4,4,4,4,2,4,4,5,"AUDITIVO, Kinestesico"
+10011866,Masculino,18,4,2,3,2,2,3,2,2,2,3,4,4,3,3,5,Kinestesico
+10011867,Masculino,19,2,2,3,3,2,4,3,2,2,3,3,2,4,2,5,Kinestesico
+10011868,Masculino,20,2,2,2,3,5,3,2,4,3,2,4,2,4,4,5,Kinestesico
+10011869,Femenino,19,1,3,2,3,3,3,1,4,1,4,5,4,5,3,5,Kinestesico
+10011870,Masculino,15,5,5,5,1,5,5,5,5,5,5,5,5,5,5,5,"AUDITIVO, Kinestesico"
+10011871,Masculino,21,4,4,4,2,2,4,4,4,4,1,3,2,3,2,5,AUDITIVO
+10011872,Femenino,20,4,3,3,3,3,3,3,3,3,3,4,3,3,3,5,Kinestesico
+10011873,Masculino,18,5,3,2,4,5,4,3,4,3,4,1,2,4,3,5,VISUAL
+10011874,Masculino,17,4,3,4,1,4,1,1,3,1,3,3,3,3,3,5,Kinestesico
+10011875,Femenino,20,2,2,4,4,2,1,2,5,3,4,1,4,2,3,5,"AUDITIVO, Kinestesico"
+10011876,Femenino,17,2,3,5,4,4,2,2,2,5,3,4,2,2,5,5,"VISUAL, Kinestesico"
+10011877,Masculino,17,2,3,3,4,4,3,3,3,3,3,4,4,4,4,5,Kinestesico
+10011878,Masculino,18,5,2,4,3,3,3,3,3,3,5,3,5,4,3,5,Kinestesico
+10011879,Masculino,19,4,4,5,3,5,5,4,4,5,3,4,3,5,5,5,Kinestesico
+10011880,Femenino,17,2,3,5,4,4,4,4,5,4,3,4,5,2,3,5,AUDITIVO
+10011881,Masculino,16,4,3,3,5,3,4,3,4,3,3,3,4,1,4,5,VISUAL
+10011882,Masculino,19,4,3,3,2,4,2,2,1,1,3,5,2,2,3,5,Kinestesico
+10011883,Masculino,19,4,4,2,2,2,2,2,3,2,3,3,3,2,3,5,Kinestesico
+10011884,Masculino,19,3,3,3,5,5,1,2,2,4,4,3,4,3,1,5,VISUAL
+10011885,Masculino,17,2,3,4,3,4,4,4,5,3,3,3,5,3,4,5,Kinestesico
+10011886,Masculino,21,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Kinestesico
+10011887,Femenino,19,5,5,5,5,5,3,5,5,5,5,5,5,5,5,5,"VISUAL, Kinestesico"
+10011888,Femenino,19,2,4,4,3,2,4,4,4,5,5,4,4,4,4,5,AUDITIVO
+10011889,Femenino,19,1,3,3,3,5,3,3,1,3,4,4,3,5,3,5,Kinestesico
+10011890,Masculino,20,5,3,4,3,3,4,5,3,4,4,4,4,4,2,5,AUDITIVO
+10011891,Masculino,20,4,3,4,2,3,4,4,3,4,4,4,4,5,3,5,Kinestesico
+10011892,Masculino,21,2,2,2,3,4,2,4,1,2,3,3,4,4,1,5,Kinestesico
+10011893,Masculino,20,2,5,5,3,5,3,4,3,3,4,5,5,4,3,5,Kinestesico
+10011894,Femenino,21,3,4,5,5,4,5,2,3,3,4,4,1,5,4,5,VISUAL
+10011895,Masculino,21,2,4,3,4,4,3,2,3,3,4,5,4,5,2,5,Kinestesico
+10011896,Masculino,17,5,3,4,4,5,5,4,3,4,4,5,3,4,4,5,"VISUAL, Kinestesico"
+10011897,Masculino,22,5,3,4,3,2,3,5,4,4,3,5,5,5,2,5,Kinestesico
+10011898,Masculino,21,3,3,4,2,5,4,4,5,1,5,3,4,3,4,5,"AUDITIVO, Kinestesico"
+10011899,Masculino,15,2,4,4,2,1,2,1,4,2,1,1,2,1,4,5,"VISUAL, Kinestesico"
+10011900,Femenino,20,2,2,5,4,4,3,4,2,5,4,4,4,4,4,5,Kinestesico
+10011901,Femenino,21,5,4,4,5,2,4,5,5,5,5,5,5,5,5,5,Kinestesico
+10011902,Femenino,16,5,1,1,3,1,1,5,2,2,1,1,2,4,2,5,Kinestesico
+10011903,Masculino,17,3,2,5,3,3,3,3,1,2,3,4,4,3,4,5,Kinestesico
+10011904,Femenino,17,2,2,1,2,3,1,3,3,4,1,1,2,1,5,5,Kinestesico
+10011905,Femenino,19,2,2,1,1,1,1,1,1,2,2,1,3,1,2,5,Kinestesico
+10011906,Masculino,19,4,4,4,2,5,5,4,2,3,3,5,4,5,4,5,Kinestesico
+10011907,Femenino,19,5,3,5,5,5,1,1,1,5,5,1,5,4,5,5,VISUAL
+10011908,Femenino,18,5,4,4,5,3,4,4,3,5,3,4,4,5,4,5,Kinestesico
+10011909,Femenino,15,4,4,3,4,4,5,5,4,4,1,4,3,5,4,5,Kinestesico
+10011910,Masculino,10,5,5,3,3,3,5,5,5,5,4,5,5,5,3,5,AUDITIVO
+10011911,Femenino,18,3,2,4,4,3,4,3,4,3,3,5,4,5,4,5,Kinestesico
+10011912,Masculino,21,4,3,2,3,3,3,2,4,2,3,4,4,3,4,5,Kinestesico
+10011913,Masculino,21,4,4,4,2,3,2,5,5,2,4,5,5,5,3,5,Kinestesico
+10011914,Masculino,21,1,3,3,4,4,3,5,4,2,4,2,2,4,5,5,"AUDITIVO, Kinestesico"
+10011915,Femenino,19,2,4,2,2,2,3,4,5,4,3,4,5,3,2,5,"AUDITIVO, Kinestesico"
+10011916,Femenino,20,3,4,5,4,3,5,5,4,4,4,3,4,4,4,5,AUDITIVO
+10011917,Femenino,19,4,4,4,3,3,4,4,4,3,4,3,4,4,4,5,Kinestesico
+10011918,Masculino,20,5,3,4,3,3,4,5,3,4,4,4,4,4,4,5,Kinestesico
+10011919,Masculino,20,4,3,4,2,3,4,4,3,4,4,4,4,5,4,5,Kinestesico
+10011920,Masculino,21,2,2,2,3,4,2,4,1,2,3,3,4,4,4,5,Kinestesico
+10011921,Masculino,20,2,5,5,3,5,3,4,3,3,4,5,5,4,4,5,Kinestesico
+10011922,Femenino,21,3,4,5,5,4,5,2,3,3,4,4,1,5,4,5,VISUAL
+10011923,Masculino,21,2,4,3,4,4,3,2,3,3,4,5,4,5,4,5,Kinestesico
+10011924,Masculino,20,5,3,4,3,3,4,5,3,4,4,4,4,4,4,5,Kinestesico
+10011925,Masculino,20,4,3,4,2,3,4,4,3,4,4,4,4,5,4,5,Kinestesico
+10011926,Masculino,21,2,2,2,3,4,2,4,1,2,3,3,4,4,4,5,Kinestesico
+10011927,Masculino,20,2,5,5,3,5,3,4,3,3,4,5,5,4,4,5,Kinestesico
+10011928,Femenino,21,3,4,5,5,4,5,2,3,3,4,4,1,5,4,5,VISUAL
+10011929,Masculino,21,2,4,3,4,4,3,2,3,3,4,5,4,5,4,5,Kinestesico
+10011930,Femenino,20,3,3,3,4,5,3,2,3,3,4,4,4,4,4,5,Kinestesico
+10011931,Masculino,17,4,4,4,3,3,1,4,4,3,2,4,4,4,3,5,Kinestesico
+10011932,Masculino,16,3,2,2,5,5,3,3,2,5,5,3,2,5,5,5,Kinestesico
+10011933,Masculino,18,4,3,3,4,3,2,3,3,3,4,3,4,5,4,5,Kinestesico
+10011934,Masculino,18,3,2,2,2,2,2,3,2,2,4,2,3,3,4,5,Kinestesico
+10011935,Femenino,19,3,3,4,3,3,3,3,4,4,3,1,3,4,3,5,AUDITIVO
+10011936,Femenino,21,1,1,5,1,1,2,4,5,3,3,3,5,5,1,5,Kinestesico
+10011937,Femenino,32,4,5,5,5,4,4,5,5,3,4,5,5,5,5,5,Kinestesico
+10011938,Masculino,17,3,5,5,5,5,4,4,3,2,4,3,4,2,2,5,VISUAL
+10011939,Masculino,20,3,3,3,4,4,3,3,3,3,3,4,3,3,3,5,Kinestesico
+10011940,Masculino,17,4,5,5,4,4,4,5,5,5,5,3,4,4,5,5,AUDITIVO
+10011941,Masculino,18,3,3,4,4,5,5,4,4,3,4,5,4,5,4,5,Kinestesico
+10011942,Femenino,12,2,2,3,3,5,3,1,3,1,3,1,4,3,2,5,"VISUAL, Kinestesico"
+10011943,Femenino,12,1,1,4,2,1,3,5,4,2,2,1,4,3,3,5,"AUDITIVO, Kinestesico"
+10011944,Femenino,18,2,4,4,5,4,4,4,4,4,5,2,5,4,4,5,AUDITIVO
+10011945,Femenino,18,3,3,5,4,4,3,4,3,3,3,4,4,3,3,5,"VISUAL, Kinestesico"
+10011946,Femenino,18,4,3,4,2,3,4,3,3,3,4,4,5,4,2,5,Kinestesico
+10011947,Masculino,22,4,3,3,3,2,4,4,4,4,4,3,4,4,4,5,"AUDITIVO, Kinestesico"
+10011948,Femenino,21,4,3,4,4,3,4,4,3,4,4,4,4,4,4,5,Kinestesico
+10011949,Femenino,18,2,5,4,4,5,4,4,5,4,4,4,4,5,4,5,Kinestesico
+10011950,Masculino,20,4,3,3,2,3,4,4,3,3,4,4,3,2,4,5,"AUDITIVO, Kinestesico"
+10011951,Masculino,17,5,5,4,4,3,5,4,5,4,4,4,5,5,4,5,Kinestesico
+10011952,Masculino,21,4,5,5,1,1,5,4,3,5,5,5,1,3,1,5,AUDITIVO
+10011953,Femenino,19,2,4,4,3,2,4,4,4,5,5,4,4,4,4,5,AUDITIVO
+10011954,Femenino,19,1,3,3,3,5,3,3,1,3,4,4,3,5,3,5,Kinestesico
+10011955,Masculino,21,5,2,4,2,3,5,2,4,3,1,4,4,5,2,5,Kinestesico
+10011956,Masculino,20,4,4,3,3,2,5,4,5,4,4,5,5,4,3,5,"AUDITIVO, Kinestesico"
+10011957,Femenino,21,4,4,5,5,5,5,4,5,5,5,5,5,5,5,5,Kinestesico
+10011958,Masculino,21,4,2,3,2,2,4,4,4,2,4,4,4,5,3,5,Kinestesico
+10011959,Masculino,21,2,4,4,3,3,4,4,4,2,4,3,4,5,2,5,Kinestesico
+10011960,Masculino,21,3,3,3,5,4,5,2,2,3,3,5,3,3,4,5,Kinestesico
+10011961,Masculino,20,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,Kinestesico
+10011962,Femenino,15,3,4,4,3,4,4,3,2,5,2,3,4,4,2,5,"VISUAL, Kinestesico"
+10011963,Femenino,15,2,2,2,2,2,3,2,4,1,3,5,3,4,2,5,Kinestesico
+10011964,Femenino,14,3,4,3,3,2,4,4,3,3,3,3,3,3,2,5,AUDITIVO
+10011965,Masculino,22,4,3,3,3,2,4,4,4,4,4,3,4,4,4,5,"AUDITIVO, Kinestesico"
+10011966,Femenino,14,3,5,4,3,3,4,5,4,4,5,5,5,5,5,5,Kinestesico
+10011967,Femenino,12,4,3,4,1,1,4,4,5,4,3,5,4,5,5,5,Kinestesico
+10011968,Masculino,21,1,5,4,5,3,3,5,3,3,4,4,4,3,2,5,"VISUAL, AUDITIVO, Kinestesico"
+10011969,Masculino,21,3,3,4,2,3,4,4,4,2,4,5,4,5,4,5,Kinestesico
+10011970,Femenino,15,3,3,4,4,5,4,4,2,3,4,5,4,5,5,5,Kinestesico
+10011971,Femenino,17,4,4,2,3,3,4,5,5,5,2,5,5,5,5,5,Kinestesico
+10011972,Femenino,20,4,4,4,3,4,5,5,5,5,5,5,5,5,5,5,"AUDITIVO, Kinestesico"
+10011973,Masculino,16,3,1,4,2,1,3,5,5,5,1,5,5,3,3,5,Kinestesico
+10011974,Femenino,16,3,4,4,4,4,4,3,2,3,3,3,3,4,3,5,VISUAL
+10011975,Femenino,19,3,4,4,4,4,4,3,2,3,3,3,3,4,3,5,VISUAL
+10011976,Masculino,21,3,4,4,4,3,5,4,2,4,4,5,5,3,4,5,Kinestesico
+10011977,Masculino,21,5,2,4,2,3,5,2,4,3,1,4,4,5,2,5,Kinestesico
+10011978,Masculino,20,4,4,3,3,2,5,4,5,4,4,5,5,4,3,5,"AUDITIVO, Kinestesico"
+10011979,Femenino,21,4,4,5,5,5,5,4,5,5,5,5,5,5,5,5,Kinestesico
+10011980,Masculino,21,4,2,3,2,2,4,4,4,2,4,4,4,5,3,5,Kinestesico
+10011981,Masculino,21,2,4,4,3,3,4,4,4,2,4,3,4,5,2,5,Kinestesico
+10011982,Femenino,15,3,3,3,4,4,4,4,3,3,4,4,4,4,3,5,Kinestesico
+10011983,Masculino,20,1,3,1,3,2,3,3,2,2,3,2,2,1,1,5,AUDITIVO
+10011984,Masculino,21,2,2,1,5,5,4,4,5,3,4,5,4,5,2,5,Kinestesico
+10011985,Masculino,20,3,3,3,4,3,4,2,3,3,4,4,3,3,3,5,Kinestesico
+10011986,Femenino,21,3,4,5,5,5,4,2,1,5,2,5,4,4,1,5,VISUAL
+10011987,Femenino,15,4,3,3,3,2,5,4,4,3,4,4,4,4,3,5,"AUDITIVO, Kinestesico"
+10011988,Masculino,16,1,3,3,3,4,3,3,4,2,3,5,5,5,2,5,Kinestesico
+10011989,Femenino,15,2,4,4,2,3,3,2,3,3,1,5,4,3,5,5,Kinestesico
+10011990,Femenino,16,3,4,3,4,3,4,3,2,2,4,4,4,2,1,5,VISUAL
+10011991,Masculino,15,3,4,4,4,5,4,4,5,1,4,4,5,5,1,5,"VISUAL, Kinestesico"
+10011992,Femenino,14,3,4,3,3,2,4,4,4,3,3,5,5,5,5,5,Kinestesico
+10011993,Femenino,14,1,5,3,5,2,5,5,4,3,4,4,5,5,4,5,Kinestesico
+10011994,Femenino,15,3,4,4,3,3,4,4,3,2,3,5,5,5,5,5,Kinestesico
+10011995,Masculino,20,3,3,4,3,3,3,3,2,3,3,3,3,4,2,5,Kinestesico
+10011996,Masculino,20,1,1,3,2,5,3,4,1,3,3,1,3,5,5,5,Kinestesico
+10011997,Masculino,21,3,4,5,4,4,4,4,3,3,4,5,5,5,4,5,Kinestesico
+10011998,Femenino,21,5,3,5,2,2,3,5,2,5,5,4,5,5,5,5,Kinestesico
+10011999,Femenino,21,2,4,4,3,3,4,4,4,4,2,4,4,2,2,5,AUDITIVO
+10012000,Femenino,20,3,4,4,4,3,4,4,4,4,3,5,5,5,4,5,Kinestesico
+10012001,Femenino,21,3,4,5,2,3,5,4,5,4,4,5,5,5,3,5,Kinestesico
+10012002,Masculino,21,2,3,3,1,1,4,5,4,3,3,4,4,4,1,5,AUDITIVO
+10012003,Femenino,20,3,3,4,3,3,4,4,3,4,4,4,4,5,4,5,Kinestesico
+10012004,Femenino,14,5,5,5,5,5,4,5,1,5,4,3,5,5,5,5,VISUAL
+10012005,Masculino,21,4,2,4,4,4,4,4,4,5,4,4,3,5,3,5,AUDITIVO
+10012006,Femenino,15,3,4,4,3,3,4,4,3,2,3,5,5,5,5,5,Kinestesico
+10012007,Femenino,20,2,4,4,2,1,3,5,5,5,5,4,3,5,2,5,AUDITIVO
+10012008,Femenino,21,3,3,4,2,3,4,2,3,3,3,3,3,5,3,5,Kinestesico
+10012009,Femenino,20,3,5,5,4,4,5,3,5,5,5,5,5,5,5,5,Kinestesico
+10012010,Femenino,20,4,4,4,4,5,4,4,5,3,4,4,3,5,5,5,Kinestesico
+10012011,Masculino,17,1,2,3,4,4,1,1,5,3,3,1,5,1,3,5,Kinestesico
+10012012,Femenino,21,2,5,4,3,2,5,3,5,5,4,5,5,5,4,5,Kinestesico
+10012013,Femenino,20,4,3,2,4,1,3,3,5,4,2,2,2,4,4,5,"AUDITIVO, Kinestesico"
+10012014,Femenino,20,3,3,4,3,2,4,4,1,4,2,5,3,5,4,5,Kinestesico
+10012015,Femenino,15,2,3,3,2,1,2,2,4,4,2,4,4,5,4,5,Kinestesico
+10012016,Masculino,20,2,4,5,5,5,4,3,4,3,3,1,2,2,4,5,VISUAL
+10012017,Femenino,20,5,3,3,3,1,4,4,5,4,1,3,4,5,3,5,Kinestesico
+10012018,Femenino,20,3,4,3,3,3,3,3,4,3,3,2,5,5,3,5,Kinestesico
+10012019,Femenino,20,5,3,3,3,1,4,4,5,4,1,3,4,5,3,5,Kinestesico
+10012020,Femenino,18,3,3,3,4,3,4,4,4,4,3,4,4,3,3,5,"AUDITIVO, Kinestesico"
+10012021,Femenino,21,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,Kinestesico
+10012022,Femenino,21,5,5,4,4,4,5,5,5,3,5,4,5,5,2,5,AUDITIVO
+10012023,Femenino,15,5,4,5,4,1,5,4,4,5,3,5,5,5,5,5,Kinestesico
+10012024,Masculino,21,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,"VISUAL, AUDITIVO, Kinestesico"
+10012025,Femenino,21,4,3,3,4,5,4,4,2,3,4,4,4,5,5,5,Kinestesico
+10012026,Masculino,21,4,3,5,4,3,5,3,5,4,3,3,5,5,4,5,Kinestesico
+10012027,Masculino,21,3,3,4,4,3,4,4,3,3,3,2,3,3,3,5,"VISUAL, AUDITIVO"
+10012028,Femenino,14,5,5,5,5,4,4,4,1,2,3,2,5,1,1,5,VISUAL
+10012029,Femenino,18,3,3,3,4,3,4,4,4,4,3,4,4,3,3,5,"AUDITIVO, Kinestesico"
+10012030,Femenino,21,4,4,4,3,2,5,4,4,4,2,4,4,4,4,5,Kinestesico
+10012031,Masculino,21,2,2,3,1,3,3,2,4,2,2,5,2,4,3,5,Kinestesico
+10012032,Femenino,21,5,4,3,4,4,3,3,4,4,4,4,3,4,4,5,"VISUAL, Kinestesico"
+10012033,Femenino,21,2,4,4,4,4,3,4,3,3,5,3,2,3,5,5,"VISUAL, AUDITIVO, Kinestesico"
+10012034,Masculino,20,1,3,3,2,2,4,5,5,3,5,2,5,4,3,5,AUDITIVO
+10012035,Masculino,17,5,5,4,2,3,5,3,4,4,5,5,5,1,4,5,AUDITIVO
+10012036,Masculino,17,5,5,4,2,3,5,3,4,4,5,5,5,1,4,5,AUDITIVO
+10012037,Femenino,19,4,5,4,3,4,4,5,2,5,4,1,4,4,2,5,"VISUAL, AUDITIVO"
+10012038,Femenino,21,3,3,4,3,2,4,3,4,4,4,4,4,4,3,5,Kinestesico
+10012039,Femenino,21,4,3,3,4,2,5,3,3,2,4,5,4,4,4,5,Kinestesico
+10012040,Femenino,20,1,4,3,1,1,3,5,1,4,5,4,5,5,4,5,Kinestesico
+10012041,Masculino,21,2,3,3,3,2,3,4,1,2,4,2,2,1,2,5,AUDITIVO
+10012042,Femenino,21,4,4,4,4,4,4,4,4,4,4,4,4,5,4,5,Kinestesico
+10012043,Masculino,18,4,2,2,2,3,4,4,4,4,4,5,4,3,4,5,Kinestesico
+10012044,Femenino,20,2,2,3,5,5,5,5,5,5,5,3,3,5,3,5,AUDITIVO
+10012045,Masculino,19,1,4,4,4,4,5,3,4,4,4,3,3,4,4,5,AUDITIVO
+10012046,Femenino,21,2,3,3,4,3,3,2,3,3,3,5,3,5,4,5,Kinestesico
+10012047,Femenino,21,1,4,5,1,5,3,4,5,1,5,5,5,5,5,5,Kinestesico
+10012048,Masculino,20,5,3,5,3,2,3,4,3,5,4,4,5,4,4,5,Kinestesico
+10012049,Femenino,21,4,5,4,5,1,5,4,4,1,5,5,4,5,1,5,Kinestesico
+10012050,Femenino,21,3,5,5,5,5,5,5,4,4,5,3,4,5,4,5,"VISUAL, AUDITIVO"
+10012051,Masculino,20,3,5,4,5,5,4,5,2,2,4,4,5,2,3,5,VISUAL
+10012052,Masculino,21,5,4,4,3,1,4,5,4,5,4,3,4,5,3,5,AUDITIVO
+10012053,Femenino,20,3,2,2,2,5,2,4,2,1,2,4,5,4,3,5,Kinestesico
+10012054,Femenino,19,4,3,3,5,5,4,3,1,5,3,5,5,4,5,5,Kinestesico
+10012055,Masculino,19,3,3,3,3,3,3,3,3,3,3,5,3,3,3,5,Kinestesico
+10012056,Femenino,21,3,1,4,2,4,4,4,2,4,3,3,3,5,2,5,Kinestesico
+10012057,Femenino,21,3,4,3,2,1,3,2,2,3,4,5,4,4,3,5,Kinestesico
+10012058,Masculino,20,4,3,3,4,2,4,4,4,3,4,4,4,4,4,5,Kinestesico
+10012059,Femenino,21,4,4,4,2,4,4,5,4,5,5,3,4,4,4,5,AUDITIVO
+10012060,Masculino,21,5,3,2,4,4,3,5,5,3,4,5,5,4,4,5,Kinestesico
+10012061,Femenino,21,2,3,3,4,3,3,4,2,3,3,4,3,3,3,5,Kinestesico
+10012062,Masculino,16,1,4,4,4,3,4,5,4,3,5,5,5,5,5,5,Kinestesico
+10012063,Masculino,21,1,4,3,1,5,2,1,1,1,5,5,5,5,5,5,Kinestesico
+10012064,Femenino,21,2,4,4,4,2,3,2,3,5,4,1,4,5,4,5,Kinestesico
+10012065,Femenino,21,1,5,2,1,5,2,5,4,4,5,5,4,5,5,5,Kinestesico
+10012066,Femenino,15,5,4,5,4,1,5,4,4,5,3,5,5,5,5,5,Kinestesico
+10012067,Masculino,21,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,"VISUAL, AUDITIVO, Kinestesico"
+10012068,Femenino,21,4,3,3,4,5,4,4,2,3,4,4,4,5,5,5,Kinestesico
+10012069,Masculino,21,4,3,5,4,3,5,3,5,4,3,3,5,5,4,5,Kinestesico
+10012070,Masculino,21,3,3,4,4,3,4,4,3,3,3,2,3,3,3,5,"VISUAL, AUDITIVO"
+10012071,Femenino,14,5,5,5,5,4,4,4,1,2,3,2,5,1,1,5,VISUAL
+10012072,Femenino,18,3,3,3,4,3,4,4,4,4,3,4,4,3,3,5,"AUDITIVO, Kinestesico"
+10012073,Femenino,21,4,4,4,3,2,5,4,4,4,2,4,4,4,4,5,Kinestesico
+10012074,Masculino,21,2,2,3,1,3,3,2,4,2,2,5,2,4,3,5,Kinestesico
+10012075,Femenino,20,5,4,3,4,4,3,3,4,4,4,4,3,4,4,5,"VISUAL, Kinestesico"
+10012076,Femenino,21,2,4,4,4,4,3,4,3,3,5,3,2,3,5,5,"VISUAL, AUDITIVO, Kinestesico"
+10012077,Masculino,20,1,3,3,2,2,4,5,5,3,5,2,5,4,3,5,AUDITIVO
+10012078,Femenino,20,4,1,1,1,4,4,4,5,4,4,5,4,4,1,5,AUDITIVO
+10012079,Femenino,21,3,4,4,4,3,5,4,5,3,2,5,5,5,4,5,Kinestesico
+10012080,Masculino,21,3,5,4,2,3,5,5,5,3,4,3,5,5,4,5,"AUDITIVO, Kinestesico"
+10012081,Femenino,20,2,2,3,5,5,5,5,5,5,5,3,3,5,3,5,AUDITIVO
+10012082,Masculino,21,1,4,4,4,4,5,3,4,4,4,3,3,4,4,5,AUDITIVO
+10012083,Femenino,21,2,3,3,4,3,3,2,3,3,3,5,3,5,4,5,Kinestesico
+10012084,Femenino,21,1,4,5,1,5,3,4,5,1,5,5,5,5,5,5,Kinestesico
+10012085,Masculino,21,5,3,5,3,2,3,4,3,5,4,4,5,4,4,5,Kinestesico
+10012086,Femenino,21,4,5,4,5,1,5,4,4,1,5,5,4,5,1,5,Kinestesico
+10012087,Femenino,21,3,5,5,5,5,5,5,4,4,5,3,4,5,4,5,"VISUAL, AUDITIVO"
+10012088,Masculino,20,3,5,4,5,5,4,5,2,2,4,4,5,2,3,5,VISUAL
+10012089,Masculino,21,5,4,4,3,1,4,5,4,5,4,3,4,5,3,5,AUDITIVO
+10012090,Femenino,20,3,2,2,2,5,2,4,2,1,2,4,5,4,3,5,Kinestesico
+10012091,Femenino,21,4,3,3,5,5,4,3,1,5,3,5,5,4,5,5,Kinestesico
+10012092,Masculino,21,3,3,3,3,3,3,3,3,3,3,5,3,3,3,5,Kinestesico
+10012093,Femenino,21,3,1,4,2,4,4,4,2,4,3,3,3,5,2,5,Kinestesico
+10012094,Femenino,21,3,4,3,2,1,3,2,2,3,4,5,4,4,3,5,Kinestesico
+10012095,Masculino,20,4,3,3,4,2,4,4,4,3,4,4,4,4,4,5,Kinestesico
+10012096,Femenino,21,4,4,4,2,4,4,5,4,5,5,3,4,4,4,5,AUDITIVO
+10012097,Masculino,21,5,3,2,4,4,3,5,5,3,4,5,5,4,4,5,Kinestesico
+10012098,Femenino,21,2,3,3,4,3,3,4,2,3,3,4,3,3,3,5,Kinestesico
+10012099,Masculino,16,1,4,4,4,3,4,5,4,3,5,5,5,5,5,5,Kinestesico
+10012100,Masculino,21,1,4,3,1,5,2,1,1,1,5,5,5,5,5,5,Kinestesico
+10012101,Femenino,21,2,4,4,4,2,3,2,3,5,4,1,4,5,4,5,Kinestesico
+10012102,Femenino,15,3,4,2,3,2,4,5,3,3,2,3,3,2,1,5,AUDITIVO
+10012103,Femenino,20,1,4,4,3,2,4,4,5,4,4,4,4,3,3,5,AUDITIVO
+10012104,Femenino,20,1,4,1,1,1,3,3,1,3,1,4,4,5,5,5,Kinestesico
+10012105,Masculino,21,3,2,3,1,1,5,3,4,1,2,5,5,5,5,5,Kinestesico
+10012106,Femenino,19,5,5,5,5,5,5,4,4,4,3,5,5,5,4,5,VISUAL
+10012107,Masculino,21,4,4,2,4,4,4,4,5,4,4,5,4,4,2,5,AUDITIVO
+10012108,Femenino,21,2,5,5,4,4,3,4,4,4,3,5,4,5,5,5,Kinestesico
+10012109,Masculino,20,3,4,3,2,3,4,4,4,4,3,4,4,4,4,5,Kinestesico
+10012110,Masculino,20,4,4,4,4,4,4,4,4,5,5,4,4,4,4,5,AUDITIVO
+10012111,Femenino,21,2,3,3,3,3,4,2,2,3,3,4,2,3,3,5,Kinestesico
+10012112,Masculino,20,2,3,3,4,2,3,4,3,2,2,4,4,3,4,5,Kinestesico
+10012113,Masculino,20,3,2,3,4,4,2,4,4,2,4,2,2,2,4,5,"VISUAL, AUDITIVO"
+10012114,Masculino,18,5,3,2,4,4,4,3,4,4,4,4,2,4,4,5,"AUDITIVO, Kinestesico"
+10012115,Masculino,18,4,2,3,2,2,3,2,2,2,3,4,4,3,3,5,Kinestesico
+10012116,Masculino,19,2,2,3,3,2,4,3,2,2,3,3,2,4,2,5,Kinestesico
+10012117,Masculino,20,2,2,2,3,5,3,2,4,3,2,4,2,4,4,5,Kinestesico
+10012118,Femenino,19,1,3,2,3,3,3,1,4,1,4,5,4,5,3,5,Kinestesico
+10012119,Masculino,15,5,5,5,1,5,5,5,5,5,5,5,5,5,5,5,"AUDITIVO, Kinestesico"
+10012120,Masculino,21,4,4,4,2,2,4,4,4,4,1,3,2,3,2,5,AUDITIVO
+10012121,Femenino,20,4,3,3,3,3,3,3,3,3,3,4,3,3,3,5,Kinestesico
+10012122,Masculino,17,2,3,3,4,4,3,3,3,3,3,4,4,4,4,5,Kinestesico
+10012123,Masculino,18,5,2,4,3,3,3,3,3,3,5,3,5,4,3,5,Kinestesico
+10012124,Masculino,19,4,4,5,3,5,5,4,4,5,3,4,3,5,5,5,Kinestesico
+10012125,Masculino,17,2,3,5,4,4,4,4,5,4,3,4,5,2,3,5,AUDITIVO
+10012126,Masculino,16,4,3,3,5,3,4,3,4,3,3,3,4,1,4,5,VISUAL
+10012127,Masculino,19,4,3,3,2,4,2,2,1,1,3,5,2,2,3,5,Kinestesico
+10012128,Femenino,18,4,3,4,2,3,4,3,3,3,4,4,5,4,2,5,Kinestesico
+10012129,Masculino,20,4,3,3,3,2,4,4,4,4,4,3,4,4,4,5,"AUDITIVO, Kinestesico"
+10012130,Femenino,14,3,5,4,3,3,4,5,4,4,5,5,5,5,5,5,Kinestesico
+10012131,Femenino,12,4,3,4,1,1,4,4,5,4,3,5,4,5,5,5,Kinestesico
+10012132,Masculino,21,1,5,4,5,3,3,5,3,3,4,4,4,3,2,5,"VISUAL, AUDITIVO, Kinestesico"
+10012133,Masculino,21,3,3,4,2,3,4,4,4,2,4,5,4,5,4,5,Kinestesico
+10012134,Femenino,15,3,3,4,4,5,4,4,2,3,4,5,4,5,5,5,Kinestesico
+10012135,Femenino,17,4,4,2,3,3,4,5,5,5,2,5,5,5,5,5,Kinestesico
+10012136,Femenino,20,4,4,4,3,4,5,5,5,5,5,5,5,5,5,5,"AUDITIVO, Kinestesico"
+10012137,Masculino,16,3,1,4,2,1,3,5,5,5,1,5,5,3,3,5,Kinestesico
+10012138,Femenino,16,3,4,4,4,4,4,3,2,3,3,3,3,4,3,5,VISUAL
+10012139,Femenino,18,2,4,5,4,5,5,4,2,4,4,5,5,5,3,5,Kinestesico
+10012140,Masculino,16,2,4,5,1,1,1,3,4,1,5,3,5,5,4,5,Kinestesico
+10012141,Femenino,20,3,5,5,3,5,1,5,2,3,5,5,5,5,4,5,Kinestesico
+10012142,Masculino,19,3,4,4,4,3,5,4,2,4,4,5,5,3,4,5,Kinestesico
+10012143,Masculino,21,5,2,4,2,3,5,2,4,3,1,4,4,5,2,5,Kinestesico
+10012144,Masculino,20,4,4,3,3,2,5,4,5,4,4,5,5,4,3,5,"AUDITIVO, Kinestesico"
+10012145,Femenino,21,4,4,5,5,5,5,4,5,5,5,5,5,5,5,5,Kinestesico
+10012146,Masculino,21,4,2,3,2,2,4,4,4,2,4,4,4,5,3,5,Kinestesico
+10012147,Masculino,21,2,4,4,3,3,4,4,4,2,4,3,4,5,2,5,Kinestesico
+10012148,Femenino,15,3,3,3,4,4,4,4,3,3,4,4,4,4,3,5,Kinestesico
+10012149,Femenino,21,4,5,4,5,1,5,4,4,1,5,5,4,5,1,5,Kinestesico
+10012150,Femenino,21,3,5,5,5,5,5,5,4,4,5,3,4,5,4,5,"VISUAL, AUDITIVO"
+10012151,Masculino,20,3,5,4,5,5,4,5,2,2,4,4,5,2,3,5,VISUAL
+10012152,Masculino,21,5,4,4,3,1,4,5,4,5,4,3,4,5,3,5,AUDITIVO
+10012153,Femenino,20,3,2,2,2,5,2,4,2,1,2,4,5,4,3,5,Kinestesico
+10012154,Femenino,19,4,3,3,5,5,4,3,1,5,3,5,5,4,5,5,Kinestesico
+10012155,Masculino,21,3,3,3,3,3,3,3,3,3,3,5,3,3,3,5,Kinestesico
+10012156,Femenino,19,3,1,4,2,4,4,4,2,4,3,3,3,5,2,5,Kinestesico
+10012157,Femenino,19,3,4,3,2,1,3,2,2,3,4,5,4,4,3,5,Kinestesico
+10012158,Masculino,20,4,3,3,4,2,4,4,4,3,4,4,4,4,4,5,Kinestesico
+10012159,Femenino,18,4,4,4,2,4,4,5,4,5,5,3,4,4,4,5,AUDITIVO
+10012160,Masculino,19,5,3,2,4,4,3,5,5,3,4,5,5,4,4,5,Kinestesico
+10012161,Femenino,21,2,3,3,4,3,3,4,2,3,3,4,3,3,3,5,Kinestesico
+10012162,Masculino,16,1,4,4,4,3,4,5,4,3,5,5,5,5,5,5,Kinestesico
+10012163,Masculino,19,1,4,3,1,5,2,1,1,1,5,5,5,5,5,5,Kinestesico
+10012164,Masculino,17,2,2,3,1,3,3,2,4,2,2,5,2,4,3,5,Kinestesico
+10012165,Femenino,21,5,4,3,4,4,3,3,4,4,4,4,3,4,4,5,"VISUAL, Kinestesico"
+10012166,Femenino,17,2,4,4,4,4,3,4,3,3,5,3,2,3,5,5,"VISUAL, AUDITIVO, Kinestesico"
+10012167,Masculino,20,1,3,3,2,2,4,5,5,3,5,2,5,4,3,5,AUDITIVO
+10012168,Femenino,18,4,1,1,1,4,4,4,5,4,4,5,4,4,1,5,AUDITIVO
+10012169,Femenino,21,3,4,4,4,3,5,4,5,3,2,5,5,5,4,5,Kinestesico
+10012170,Masculino,20,3,5,4,2,3,5,5,5,3,4,3,5,5,4,5,"AUDITIVO, Kinestesico"
+10012171,Femenino,21,4,4,4,5,4,5,3,3,4,4,4,4,5,5,5,Kinestesico
+10012172,Femenino,21,4,4,4,3,3,4,4,3,4,5,3,4,4,4,5,"AUDITIVO, Kinestesico"
+10012173,Femenino,18,4,5,5,5,3,5,3,5,5,3,5,5,5,5,5,Kinestesico
+10012174,Femenino,20,3,3,4,3,5,5,4,3,5,3,4,4,5,3,5,Kinestesico
+10012175,Masculino,17,5,5,4,2,3,5,3,4,4,5,5,5,1,4,5,AUDITIVO
+10012176,Masculino,17,5,5,4,2,3,5,3,4,4,5,5,5,1,4,5,AUDITIVO
+10012177,Femenino,20,3,3,4,3,2,4,4,1,4,2,5,3,5,4,5,Kinestesico
+10012178,Femenino,15,2,3,3,2,1,2,2,4,4,2,4,4,5,4,5,Kinestesico
+10012179,Masculino,20,2,4,5,5,5,4,3,4,3,3,1,2,2,4,5,VISUAL
+10012180,Femenino,20,5,3,3,3,1,4,4,5,4,1,3,4,5,3,5,Kinestesico
+10012181,Femenino,20,4,4,4,4,5,4,4,5,3,4,4,3,5,5,5,Kinestesico
+10012182,Masculino,17,1,2,3,4,4,1,1,5,3,3,1,5,1,3,5,Kinestesico
+10012183,Femenino,21,2,5,4,3,2,5,3,5,5,4,5,5,5,4,5,Kinestesico
+10012184,Masculino,21,2,3,3,3,4,3,4,2,2,3,3,4,4,3,5,Kinestesico
+10012185,Femenino,20,3,5,3,5,5,4,5,3,3,4,4,4,5,4,5,Kinestesico
+10012186,Masculino,21,4,4,5,3,5,4,4,4,5,5,5,4,5,5,5,Kinestesico
+10012187,Femenino,20,4,3,2,4,1,3,3,5,4,2,2,2,4,4,5,"AUDITIVO, Kinestesico"
+10012188,Femenino,20,3,3,4,3,2,4,4,1,4,2,5,3,5,4,5,Kinestesico
+10012189,Femenino,19,1,3,2,3,3,3,1,4,1,4,5,4,5,3,5,Kinestesico
+10012190,Masculino,15,5,5,5,1,5,5,5,5,5,5,5,5,5,5,5,"AUDITIVO, Kinestesico"
+10012191,Masculino,21,4,4,4,2,2,4,4,4,4,1,3,2,3,2,5,AUDITIVO
+10012192,Femenino,20,4,3,3,3,3,3,3,3,3,3,4,3,3,3,5,Kinestesico
+10012193,Masculino,18,5,3,2,4,5,4,3,4,3,4,1,2,4,3,5,VISUAL
+10012194,Masculino,17,4,3,4,1,4,1,1,3,1,3,3,3,3,3,5,Kinestesico
+10012195,Femenino,20,2,2,4,4,2,1,2,5,3,4,1,4,2,3,5,"AUDITIVO, Kinestesico"
+10012196,Femenino,17,2,3,5,4,4,2,2,2,5,3,4,2,2,5,5,"VISUAL, Kinestesico"
+10012197,Masculino,17,2,3,3,4,4,3,3,3,3,3,4,4,4,4,5,Kinestesico
+10012198,Femenino,19,1,3,2,3,3,3,1,4,1,4,5,4,5,3,5,Kinestesico
+10012199,Masculino,15,5,5,5,1,5,5,5,5,5,5,5,5,5,5,5,"AUDITIVO, Kinestesico"
+10012200,Masculino,21,4,4,4,2,2,4,4,4,4,1,3,2,3,2,5,AUDITIVO
+10012201,Femenino,20,4,3,3,3,3,3,3,3,3,3,4,3,3,3,5,Kinestesico
+10012202,Masculino,18,5,3,2,4,5,4,3,4,3,4,1,2,4,3,5,VISUAL
+10012203,Masculino,17,4,3,4,1,4,1,1,3,1,3,3,3,3,3,5,Kinestesico
+10012204,Femenino,20,2,2,4,4,2,1,2,5,3,4,1,4,2,3,5,"AUDITIVO, Kinestesico"
+10012205,Femenino,17,2,3,5,4,4,2,2,2,5,3,4,2,2,5,5,"VISUAL, Kinestesico"
+10012206,Masculino,17,2,3,3,4,4,3,3,3,3,3,4,4,4,4,5,Kinestesico
+10012207,Masculino,18,5,2,4,3,3,3,3,3,3,5,3,5,4,3,5,Kinestesico
+10012208,Masculino,19,4,4,5,3,5,5,4,4,5,3,4,3,5,5,5,Kinestesico
+10012209,Femenino,17,2,3,5,4,4,4,4,5,4,3,4,5,2,3,5,AUDITIVO
+10012210,Masculino,16,4,3,3,5,3,4,3,4,3,3,3,4,1,4,5,VISUAL
