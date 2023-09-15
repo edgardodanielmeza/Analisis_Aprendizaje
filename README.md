@@ -1,4 +1,4 @@
-#Proyecto Analytica de Estudiantes.
+# Proyecto Analytica de Estudiantes.
 
 ### Objetivo y Preguntas:
 
@@ -49,7 +49,7 @@
 
 # PROGRAMAS
 ## procesarEstudiante.bat        (categorizarestudiantes.py)
-####Analizador y clasificador de tipo de aprendizaje
+#### Analizador y clasificador de tipo de aprendizaje
 
 Importa la librería Pandas para trabajar con datos estructurados en DataFrames.
 Carga los datos de clasificación de preguntas a tipos de aprendizaje desde el archivo CSV "clasificacion.csv". Estos datos mapean cada pregunta de la encuesta a un tipo de aprendizaje.
@@ -93,11 +93,11 @@ En resumen, el proyecto aplica técnicas de datos, modelo predictivo y visualiza
 La metodología propuesta permite caracterizar la distribución de tipos de aprendizaje entre los estudiantes y explorar su relación con el rendimiento académico, lo que apoyaría el análisis y la toma de decisiones pedagógicas. Los scripts y herramientas de análisis de datos facilitan el procesamiento, modelado y comunicación de los hallazgos.
 
 
-#Autores Grupo 3
+# Autores Grupo 3
 
-###- Jonathan Bernal 
-###- Micheli De Almeida Bareiro 
-###- Lourdes Beatriz Delgado Gonzalez 
-###- Vladimir Lopez Maldonado 
-###- Edgardo Daniel Meza Fleitas 
+### - Jonathan Bernal 
+### - Micheli De Almeida Bareiro 
+### - Lourdes Beatriz Delgado Gonzalez 
+### - Vladimir Lopez Maldonado 
+### - Edgardo Daniel Meza Fleitas 
 
